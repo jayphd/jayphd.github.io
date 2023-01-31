@@ -19,12 +19,12 @@ title: ""
  
 <img src="MyPhoto.JPG"/> 
 <div> 
-  Hi, I am postdoctoral research associate at the University of Notre Dame! 
+  <p> Hi, I am postdoctoral research associate at the University of Notre Dame! </p>
 </div> 
 
-<p> </p>
+
 <h1>Previous positions</h1>
-<p>Postdoctoral research fellow (Feb. 2020 - Mar. 2021), National Centre for Atmospheric Science, University of Leeds, UK <br>
+<p>Postdoctoral research fellow (Feb. 2020 - Mar. 2021), <br> National Centre for Atmospheric Science, University of Leeds, UK <br>
 
 
 <h1>Education</h1>
