@@ -2,17 +2,13 @@
 layout: page
 title: ""
 ---
-<div class="row">
-  <div class="column">
-    <img src="MyPhoto.jpg" alt="Snow" style="width:30%">
-  </div>
-  <div class="column">
-    <img src="MyPhoto.jpg" alt="Forest" style="width:30%">
-  </div>
-  <div class="column">
-    <img src="MyPhoto.jpg" alt="Mountains" style="width:30%">
-  </div>
+<div class="image-txt-container">
+  <img src="MyPhoto.jpg">
+  <h2>
+    Text here
+  </h2>
 </div>
+
 
 <h1>Previous positions</h1>
 
