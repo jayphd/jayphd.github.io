@@ -2,6 +2,12 @@
 layout: page
 title: ""
 ---
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
 * {
   box-sizing: border-box;
 }
