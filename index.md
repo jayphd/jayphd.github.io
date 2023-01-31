@@ -2,14 +2,25 @@
 layout: page
 title: ""
 ---
-
-<div class="image-txt-container">
-   Hi, I am postdoctoral research associate at the University of Notre Dame!
-  <h2>
-  <img src="MyPhoto.JPG" width="250" height="300">
-   
-  </h2>
-</div>
+<style> 
+  body {  
+    background-color: deepskyblue;  
+  } 
+  img {  
+    width: 350px; 
+    float: left; 
+    margin-right: 10px; 
+  } 
+  div { 
+    float: left; 
+    width: calc(100% - 350px - 10px); 
+  } 
+</style> 
+ 
+<img src="MyPhoto.jpg" /> 
+<div> 
+  Hi, I am postdoctoral research associate at the University of Notre Dame! 
+</div> 
 
 
 <h1>Previous positions</h1>
