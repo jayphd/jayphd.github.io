@@ -9,15 +9,15 @@ title: ""
   img {  
     width: 300px; 
     float: left; 
-    margin-right: 10px; 
+    margin-right: 100px;
   } 
   div { 
     float: left; 
-    width: calc(100% - 300px - 10px); 
+    width: calc(100% - 300px - 100px); 
   } 
 </style> 
  
-<img class="padded" src="MyPhoto.JPG"/> 
+<img src="MyPhoto.JPG"/> 
 <div> 
   Hi, I am postdoctoral research associate at the University of Notre Dame! 
 </div> 
