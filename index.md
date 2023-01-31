@@ -2,6 +2,16 @@
 layout: page
 title: ""
 ---
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
 <div class="image-txt-container">
   <img src="MyPhoto.JPG">
   <h2>
