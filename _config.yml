@@ -1,6 +1,6 @@
 title: "Jayesh Phadtare"
 author: "Jayesh Phadtare"
-description: "University of Notre Dame"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: README, file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Contact:}
   - {title: Mail, icon: envelope, url: "mailto:jphadtar@ne.edu"}
   - {title: Github, icon: github, url: "https://github.com/jayphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jayesh-phadtare/"}
