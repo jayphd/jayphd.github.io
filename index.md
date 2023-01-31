@@ -2,6 +2,9 @@
 layout: page
 title: ""
 ---
+<img src="MyPhoto.JPG" alt="Trulli" width="300" height="150">
+
+
 
 Hi, I am a postdoctoral research associate at the University of Notre Dame.
 
@@ -17,4 +20,4 @@ Hi, I am a postdoctoral research associate at the University of Notre Dame.
 <p>MTech (2012), Indian Institute of Science, Bengaluru, India <br>
 <p>B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
   
-  <img src="MyPhoto.JPG" alt="Trulli" width="500" height="333">
+  
