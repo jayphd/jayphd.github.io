@@ -7,13 +7,13 @@ title: ""
     background-color: white;  
   } 
   img {  
-    width: 350px; 
+    width: 300px; 
     float: left; 
     margin-right: 10px; 
   } 
   div { 
     float: left; 
-    width: calc(100% - 350px - 10px); 
+    width: calc(100% - 300px - 10px); 
   } 
 </style> 
  
