@@ -28,7 +28,7 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="<img src="MyPhoto.JPG" alt="Trulli" width="230" height="300">
+        <img src="<img src="MyPhoto.JPG">
       </div>
       <div class="text">
         <h1>Hi, I am a postdoctoral research associate at the University of Notre Dame.</h1>
