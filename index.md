@@ -2,11 +2,8 @@
 layout: page
 title: ""
 ---
-<img src="MyPhoto.JPG" alt="Trulli" width="230" height="300">
+Hi, I am a postdoctoral research associate at the University of Notre Dame.                <img src="MyPhoto.JPG" alt="Trulli" width="230" height="300">
 
-
-
-Hi, I am a postdoctoral research associate at the University of Notre Dame.
 
 <h1>Previous positions</h1>
 
