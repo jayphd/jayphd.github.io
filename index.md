@@ -17,7 +17,7 @@ title: ""
   } 
 </style> 
  
-<img src="MyPhoto.JPG"/> 
+<img class="padded" src="MyPhoto.JPG"/> 
 <div> 
   Hi, I am postdoctoral research associate at the University of Notre Dame! 
 </div> 
