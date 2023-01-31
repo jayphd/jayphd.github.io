@@ -2,7 +2,26 @@
 layout: page
 title: ""
 ---
+* {
+  box-sizing: border-box;
+}
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+  
 <div class="row">
   <div class="column">
    Hi, I am a postdoctoral research associate at the University of Notre Dame.
