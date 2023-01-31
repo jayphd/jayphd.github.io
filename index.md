@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <div class="image-txt-container">
-  <img src="MyPhoto.jpg">
+  <img src="MyPhoto.JPG">
   <h2>
     Text here
   </h2>
