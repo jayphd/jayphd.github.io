@@ -2,7 +2,18 @@
 layout: page
 title: ""
 ---
- 
+<div class="row">
+  <div class="column">
+    <img src="MyPhoto.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="MyPhoto.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="MyPhoto.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 <h1>Previous positions</h1>
 
 <p>Postdoctoral research fellow (Feb. 2020 - Mar. 2021), National Centre for Atmospheric Science, University of Leeds, UK <br>
