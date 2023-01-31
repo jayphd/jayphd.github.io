@@ -4,7 +4,7 @@ title: ""
 ---
 <style> 
   body {  
-    background-color: deepskyblue;  
+    background-color: white;  
   } 
   img {  
     width: 350px; 
@@ -17,7 +17,7 @@ title: ""
   } 
 </style> 
  
-<img src="MyPhoto.jpg" /> 
+<img src="MyPhoto.jpg"/> 
 <div> 
   Hi, I am postdoctoral research associate at the University of Notre Dame! 
 </div> 
