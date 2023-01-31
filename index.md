@@ -28,8 +28,8 @@ title: ""
 
 
 <h1>Education</h1>
-<p>PhD (2020), Indian Institute of Science, Bengaluru, India </p>
-<p>MTech (2012), Indian Institute of Science, Bengaluru, India <br>
-<p>B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
+PhD (2020), Indian Institute of Science, Bengaluru, India <br>
+MTech (2012), Indian Institute of Science, Bengaluru, India <br>
+B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
   
   
