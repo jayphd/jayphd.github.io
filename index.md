@@ -8,7 +8,7 @@ title: ""
    Hi, I am a postdoctoral research associate at the University of Notre Dame.
   </div>
   <div class="column">
-    <img src="MyPhoto.JPG" alt="Forest" style="width:20%">
+    <img src="MyPhoto.JPG" alt="Forest" style="width:10%">
   </div>
 </div>
 
