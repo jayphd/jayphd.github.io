@@ -3,4 +3,4 @@ layout: default
 title: ""
 ---
 
-Hi, I am a postdoc at University of Notre Dame.
+            Hi, I am a postdoctoral research associate at the University of Notre Dame.
