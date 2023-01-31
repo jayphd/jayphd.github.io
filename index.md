@@ -19,7 +19,7 @@ title: ""
  
 <img src="MyPhoto.JPG"/> 
 <div> 
-  <p> Hi, I am a postdoctoral research associate at the University of Notre Dame. </p>
+  <p> Hi, I am a postdoctoral research associate at the University of Notre Dame. I study mesoscale weather phenomena with observations and numerical modelling. </p>
 </div> 
 
 
