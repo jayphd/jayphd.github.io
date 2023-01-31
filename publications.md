@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 ---
 
+Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., Phadtare, J. and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. Monthly Weather Review.
+
 Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based
 Rainfall Regimes over the Western Ghats Mountains of India. Quarterly Journal of the Royal Meteorological
 Society. 
