@@ -4,9 +4,10 @@ title: ""
 ---
 
 <div class="image-txt-container">
-  <img src="MyPhoto.JPG" width="250" height="300">
+   Hi, I am Jayesh!
   <h2>
-    Hi, I am Jayesh!
+  <img src="MyPhoto.JPG" width="250" height="300">
+   
   </h2>
 </div>
 
