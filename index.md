@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<img src="MyPhoto.JPG" alt="Trulli" width="300" height="150">
+<img src="MyPhoto.JPG" alt="Trulli" width="300" height="300">
 
 
 
