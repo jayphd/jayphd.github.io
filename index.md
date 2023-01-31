@@ -22,8 +22,7 @@ title: ""
   Hi, I am postdoctoral research associate at the University of Notre Dame! 
 </div> 
 
-
-
+</p>
 <h1>Previous positions</h1>
 <p>Postdoctoral research fellow (Feb. 2020 - Mar. 2021), National Centre for Atmospheric Science, University of Leeds, UK <br>
 
