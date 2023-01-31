@@ -2,21 +2,9 @@
 layout: page
 title: ""
 ---
-<html>
-<head>
-  
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
 <div class="image-txt-container">
-  <img src="MyPhoto.JPG">
+  <img src="MyPhoto.JPG" width="200" height="300">
   <h2>
     Text here
   </h2>
