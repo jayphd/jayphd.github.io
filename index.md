@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div class="image-txt-container">
-  <img src="MyPhoto.JPG" width="200" height="300">
+  <img src="MyPhoto.JPG" width="200" height="200">
   <h2>
     Text here
   </h2>
