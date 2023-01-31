@@ -5,11 +5,13 @@ title: ""
 
 Hi, I am a postdoctoral research associate at the University of Notre Dame.
 
+<b> Experience </b>
+Postdoctoral research fellow (Feb. 2020 - Mar. 2021), National Centre for Atmospheric Science, University of Leeds, UK
 
 <b> Education </b>
 
-PhD, Indian Institute of Science, 2020
+PhD (2020), Indian Institute of Science, Bengaluru, India
 
-M.Tech., Climate Science, Indian Institute of Science, 2012
+MTech (2012), Indian Institute of Science, Bengaluru, India
 
-B.E., Mechanical Enginerring, Sardar Patel College of Engineering, Mumbai, 2008
+B.E. (2008), Sardar Patel College of Engineering, Mumbai, India
