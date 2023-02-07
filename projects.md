@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 
-<h1> Interaction of cyclonic systems with Orography </h1>
+<h1> Orographic influnce on cyclonic systems</h1>
 
 <p> Understanding the quasi-stationarity of tropical depressions along a coast <br>
   
