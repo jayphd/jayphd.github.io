@@ -9,11 +9,11 @@ title: ""
   img {  
     width: 300px; 
     float: left; 
-    margin-right: 50px;
+    margin-right: 100px;
   } 
   div { 
     float: right; 
-    width: calc(100% - 300px - 50px); 
+    width: calc(100% - 300px); 
   } 
 </style> 
  
