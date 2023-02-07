@@ -13,7 +13,7 @@ title: ""
   } 
   div { 
     float: right; 
-    width: calc(100% - 300px); 
+    width: calc(100% - 600px); 
   } 
 </style> 
  
