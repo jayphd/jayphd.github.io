@@ -29,7 +29,6 @@ title: ""
 PhD (2020), Indian Institute of Science, Bengaluru, India <br>
 MTech (2012), Indian Institute of Science, Bengaluru, India <br>
 B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
-</div> 
 
 <img src="MyPhoto.JPG"/> 
 
