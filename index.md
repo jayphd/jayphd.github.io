@@ -24,7 +24,7 @@ title: ""
 
 
 <p> Hi, I am a postdoctoral research associate in <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
-at the University of Notre Dame. I study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley/land-sea breezes, marine boundary layer, thunderstorms using observations and numerical modeling. At University of Notre Dame, I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> investigating interactions between monsoonal storms and ocean surface. </p>
+at the University of Notre Dame. I study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley/land-sea breezes, marine boundary layer, thunderstorms using observations and numerical modeling. At University of Notre Dame, I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> investigating interactions between monsoonal storms and ocean thermodynamics. </p>
 
 <h1>Previous positions</h1>
 <p>Postdoctoral research fellow (Feb. 2020 - Mar. 2021), <br> National Centre for Atmospheric Science, University of Leeds, UK <br>
