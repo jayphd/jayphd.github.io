@@ -24,6 +24,7 @@ title: ""
 
 
 <p> Hi, I am a postdoctoral research associate at the University of Notre Dame. I study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley/land-sea breezes, marine boundary layer, thunderstorms using observations and numerical modeling. </p>
+<p> News articles on my research: <\p>
 
 
 <h1>Previous positions</h1>
