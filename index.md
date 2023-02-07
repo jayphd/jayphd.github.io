@@ -21,8 +21,6 @@ title: ""
   <p> Hi, I am a postdoctoral research associate at the University of Notre Dame. I study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley breezes, thunderstorms using observations and numerical modeling. </p>
 </div> 
 
-<img src="MyPhoto.JPG"/> 
-
 <h1>Previous positions</h1>
 <p>Postdoctoral research fellow (Feb. 2020 - Mar. 2021), <br> National Centre for Atmospheric Science, University of Leeds, UK <br>
 
@@ -31,5 +29,10 @@ title: ""
 PhD (2020), Indian Institute of Science, Bengaluru, India <br>
 MTech (2012), Indian Institute of Science, Bengaluru, India <br>
 B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
+
+
+<img src="MyPhoto.JPG"/> 
+
+
   
   
