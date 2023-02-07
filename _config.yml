@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Projects, file: "projects.md"}
+  - {title: Research, file: "projects.md"}
   - {title: Publications, file: "publications.md"}
   - {title: Blog, url: "https://jayeshphadtare.wordpress.com/author/jayaphd/"}
 
