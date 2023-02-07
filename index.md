@@ -31,12 +31,12 @@ at the University of Notre Dame. I study mesoscale weather phenomena, viz., cycl
  University of Leeds, UK <br>
  Here I studied the orographic influence of the Western Ghats on rainfall over the west coast of India [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> 1</a>]. <br> 
 
-<h1>Education</h1>
-PhD (2020), Indian Institute of Science, Bengaluru, India <br>
-MTech (2012), Indian Institute of Science, Bengaluru, India <br>
-B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
-
 <h1> News articles on my research: </h1>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece"> What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu (10 June 2018) <br>
 
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-%E2%80%93-what-role-did-eastern-ghats-play"> A look back into the December 2015 floods of Chennai </a>, Research Matters (30 May 2018)
+
+<h1>Education</h1>
+PhD (2020), Indian Institute of Science, Bengaluru, India <br>
+MTech (2012), Indian Institute of Science, Bengaluru, India <br>
+B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
