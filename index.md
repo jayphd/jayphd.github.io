@@ -8,8 +8,8 @@ title: ""
   } 
   img {  
     width: 300px; 
-    float: left; 
-    margin-right: 100px;
+    float: right; 
+    margin-left: 100px;
   } 
   div { 
     float: right; 
