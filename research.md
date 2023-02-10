@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="Under.jpg" width="500" height="333" />
+<img src="Under.jpg" width="500" height="333" alt ="image" />
 
 <!-- 
 <h1> Orographic influnce on cyclonic systems</h1>
