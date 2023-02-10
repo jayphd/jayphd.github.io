@@ -26,7 +26,7 @@ title: ""
 <p> Hi, I am a postdoctoral research associate in <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
 at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> investigating interactions between monsoonal storms and ocean thermodynamics. </p>
   
-I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley/land-sea breezes, marine boundary layer, thunderstorms using observations and numerical modeling.
+I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley/land-sea breezes, marine boundary layer, mesoscale convective systems, using observations and numerical modeling.
 
 <h1> News articles on my research </h1>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
