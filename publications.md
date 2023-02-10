@@ -3,12 +3,12 @@ layout: page
 title: "Publications"
 ---
 
-<b> In Preparation: </b> </br>
+<b> In Preparation: </b> 
 
 <b> Phadtare, J. <b>, Dynamics of a Quasi-Stationary Cyclonic System over Tamil Nadu Coast. </br>
 <b> Phadtare, J. <b>, Fernando, H.J.S., Krishnamurthy, R., Pérez Valentín, J.M., McLaughlin, K., Black , G., Dehart J., Tandon A., Shroyer, E., Jinadasa, S.U.P., Bhat, G.S. Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign <br> 
 
-<b> Peer Reviewed: </b> </br>
+<b> Peer Reviewed: </b> 
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. Quarterly Journal of the Royal Meteorological
 Society. 
