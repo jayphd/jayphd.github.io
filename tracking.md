@@ -2,4 +2,4 @@
 layout: page
 title: "Projects"
 ---
-<img src="Under.jpg">
+<img src="Under.jpg"/>
