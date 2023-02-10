@@ -24,4 +24,4 @@ Society.
 forcing during Indian summer monsoon season, <em> Monthly Weather Review </em>, 147(10), pp.3741-3758.
 
 <b>Phadtare, J.</b>, 2018. Role of Eastern Ghats orography and cold pool in an extreme rainfall event over Chennai
-on 1 December 2015. <em> Monthly Weather Review </em>, 146(4), pp.943-965. <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml">[Link]</a>
+on 1 December 2015. <em> Monthly Weather Review </em>, 146(4), pp.943-965. <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml" target="_blank">[Link]</a>
