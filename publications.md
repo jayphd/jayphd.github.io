@@ -3,7 +3,14 @@ layout: page
 title: "Publications"
 ---
 
+<b> In Preparation: </b> </br>
+<b> Phadtare, J. <br>, Dynamics of Quasi-Stationary Cyclonic Systems over Tamil Nadu Coast. </br>
+<b> Phadtare, J. <br>, Fernando, H.J.S., Krishnamurthy, R., Pérez Valentín, J.M., McLaughlin, K., Black , G., Dehart J., Tandon A., Shroyer, E., Jinadasa, S.U.P., Bhat, G.S. Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign <br> 
+
 <b> Peer Reviewed: </b> </br>
+
+<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. Quarterly Journal of the Royal Meteorological
+Society. 
 
 Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. Monthly Weather Review.
 
@@ -16,6 +23,3 @@ forcing during Indian summer monsoon season, Monthly Weather Review, 147(10), pp
 
 <b>Phadtare, J.</b>, 2018. Role of Eastern Ghats orography and cold pool in an extreme rainfall event over Chennai
 on 1 December 2015. Monthly Weather Review, 146(4), pp.943-965.
-
-<b>Phadtare, J.</b> Propagation of cyclonic vortices and intense rainfall over Indian peninsula: Case studies from
-northeast monsoon season.
