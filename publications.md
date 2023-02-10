@@ -14,14 +14,14 @@ title: "Publications"
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Quarterly Journal of the Royal Meteorological </em>
 Society. 
 
-Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. Monthly Weather Review.
+Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. <em> Monthly Weather Review </em>.
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based
-Rainfall Regimes over the Western Ghats Mountains of India. Quarterly Journal of the Royal Meteorological
+Rainfall Regimes over the Western Ghats Mountains of India. <em> Quarterly Journal of the Royal Meteorological </em>
 Society. 
 
 <b>Phadtare, J.</b>, and Bhat, G.S. , 2019. Characteristics of deep cloud systems under weak and strong synoptic
-forcing during Indian summer monsoon season, Monthly Weather Review, 147(10), pp.3741-3758.
+forcing during Indian summer monsoon season, <em> Monthly Weather Review </em>, 147(10), pp.3741-3758.
 
 <b>Phadtare, J.</b>, 2018. Role of Eastern Ghats orography and cold pool in an extreme rainfall event over Chennai
-on 1 December 2015. Monthly Weather Review, 146(4), pp.943-965.
+on 1 December 2015. <em> Monthly Weather Review </em>, 146(4), pp.943-965.
