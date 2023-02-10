@@ -11,7 +11,7 @@ title: "Publications"
 
 <b> Peer Reviewed: </b> 
 
-<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <it> Quarterly Journal of the Royal Meteorological </it>
+<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Quarterly Journal of the Royal Meteorological </em>
 Society. 
 
 Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. Monthly Weather Review.
