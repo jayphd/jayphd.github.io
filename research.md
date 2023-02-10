@@ -2,24 +2,7 @@
 layout: page
 title: ""
 ---
-<style> 
-  body {  
-    background-color: white;  
-  } 
-  img {  
-    width: 200px; 
-    float: right; 
-    margin-left: 100px;
-  } 
-  div { 
-    float: right; 
-    width: calc(300px); 
-  } 
-</style> 
- 
-<div>
- <img src="MyPhoto.JPG"/> 
-</div>
+Page under contruction!!
 
 <!-- 
 <h1> Orographic influnce on cyclonic systems</h1>
