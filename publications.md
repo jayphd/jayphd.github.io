@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-<b> Peer Reviewed: </b> 
+<b> Peer Reviewed: </b> </br>
 
 Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. Monthly Weather Review.
 
