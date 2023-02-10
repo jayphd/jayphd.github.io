@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Projects"
+title: ""
 ---
 
-<img src="Under.jpg" width="500" height="333">
+<img src="Under.jpg" width="500" height="333" />
 
 <!-- 
 <h1> Orographic influnce on cyclonic systems</h1>
