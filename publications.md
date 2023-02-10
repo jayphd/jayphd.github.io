@@ -18,7 +18,7 @@ Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtar
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based
 Rainfall Regimes over the Western Ghats Mountains of India. <em> Quarterly Journal of the Royal Meteorological </em>
-Society. href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367" target="_blank" >[Link]</a>
+Society. <a href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367" target="_blank" >[Link]</a>
 
 <b>Phadtare, J.</b>, and Bhat, G.S. , 2019. Characteristics of deep cloud systems under weak and strong synoptic
 forcing during Indian summer monsoon season, <em> Monthly Weather Review </em>, 147(10), pp.3741-3758. <a href="https://journals.ametsoc.org/view/journals/mwre/147/10/mwr-d-18-0346.1.xml" target="_blank" >[Link]</a>
