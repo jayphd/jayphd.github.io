@@ -2,8 +2,24 @@
 layout: page
 title: ""
 ---
-
-<img src="Under.jpg" width="500" height="333" alt ="image" >
+<style> 
+  body {  
+    background-color: white;  
+  } 
+  img {  
+    width: 200px; 
+    float: right; 
+    margin-left: 100px;
+  } 
+  div { 
+    float: right; 
+    width: calc(300px); 
+  } 
+</style> 
+ 
+<div>
+ <img src="Under.jpg"/> 
+</div>
 
 <!-- 
 <h1> Orographic influnce on cyclonic systems</h1>
