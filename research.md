@@ -3,7 +3,8 @@ layout: page
 title: "Projects"
 ---
 
-<img src="Under.jpg" alt="Under Contruction">
+<img src="Under.jpg">
+
 <!-- 
 <h1> Orographic influnce on cyclonic systems</h1>
 
@@ -20,3 +21,4 @@ title: "Projects"
 <h1>CTCZ</h1>
 
 <p> Continental Tropical Convergence Zone <br>
+-->
