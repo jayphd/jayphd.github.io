@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-Page under contruction!!
+Page under contruction
 
 <!-- 
 <h1> Orographic influnce on cyclonic systems</h1>
