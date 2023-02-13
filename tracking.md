@@ -2,4 +2,4 @@
 layout: page
 title: ""
 ---
-<img src="/assests/Under.jpg">
+<img src="/assets/Under.jpg" alt="">	
