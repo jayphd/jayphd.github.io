@@ -40,6 +40,6 @@ I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-v
 
 
 <h1>Education</h1>
-PhD (2020), Indian Institute of Science, Bengaluru, India <br>
-MTech (2012), Indian Institute of Science, Bengaluru, India <br>
+Ph.D. (2020), Indian Institute of Science, Bengaluru, India <br>
+M.Tech. (2012), Indian Institute of Science, Bengaluru, India <br>
 B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
