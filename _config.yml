@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jphadtar@ne.edu"}
   - {title: Github, icon: github, url: "https://github.com/jayphd"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jayesh-phadtare/"}
-  - {title: Google, icon: fa-google, url: "https://scholar.google.com/citations?user=Di3JfScAAAAJ&hl=en"}
+  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/jayesh-phadtare/"}
+  - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=Di3JfScAAAAJ&hl=en"}
 
 
 comments:
