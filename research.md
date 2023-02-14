@@ -33,5 +33,6 @@ In a weak background flow, the cyclonic storms in the tropics move westwards due
 <h1> Previous topics: </h1>
 
 <b>  <a href="https://meetingorganizer.copernicus.org/EGU21/EGU21-15748.html">Indian Monsoon Precipitation over Orography: Verification and Enhancement of Understanding (IMPROVE) </a>  </b> <br>
+  The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected moist air-parcels.
   
 <b> <a href="https://journals.ametsoc.org/view/journals/mwre/147/10/mwr-d-18-0346.1.xml">Life cycle of Mesoscale Convective Systems (MCSs) </a> </b> <br>
