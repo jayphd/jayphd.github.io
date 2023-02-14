@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
- <b> <u> In Preparation </u>:</b> 
+ <u><b>In Preparation:</b></u> 
 
 <b> Phadtare, J. </b>, Fernando, H.J.S., Krishnamurthy, R., Pérez Valentín, J.M., McLaughlin, K., Black , G., Dehart J., Tandon A., Shroyer, E., Jinadasa, S.U.P., Bhat, G.S.,  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign <br> 
 
