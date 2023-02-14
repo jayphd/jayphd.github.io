@@ -33,6 +33,8 @@ In a weak background flow, the cyclonic storms in the tropics move westwards due
 <h1> Previous topics: </h1>
 
 <b>  <a href="https://meetingorganizer.copernicus.org/EGU21/EGU21-15748.html">Indian Monsoon Precipitation over Orography: Verification and Enhancement of Understanding (IMPROVE) </a>  </b> <br>
-  The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected moist air-parcels.
+  The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air-parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., Mumbai flood 2005, Kerala flood 2018.  My research at the National Centre for Atmospheric Science, University of Leeds invistigated the orographic effects of the Western Ghats on the west coast rainfall. A better understanding and model representation of these effects is necessary to improve the weather forecasts. <br>
   
-<b> <a href="https://journals.ametsoc.org/view/journals/mwre/147/10/mwr-d-18-0346.1.xml">Life cycle of Mesoscale Convective Systems (MCSs) </a> </b> <br>
+<b> <a href="https://journals.ametsoc.org/view/journals/mwre/147/10/mwr-d-18-0346.1.xml">Life cycle of deep cloud systems </a> </b> <br>
+  During my PhD, I wrote a computer algorithm to track deep clouds in infrared satellite images. Such algorithms are helpful in understanding the life cycle of deep convection. I studied the association between the deep cloud systems and atmospheric synoptic forcing during the Indian summer monsoon season.
+  
