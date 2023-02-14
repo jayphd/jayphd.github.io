@@ -23,7 +23,7 @@ At the University of Notre Dame, my research is funded through the MISO-BOB proj
 <img src="/assets/MISO_bob_website.png" alt="" width="750" height="500">	
 </p>
   
-<a href="https://jayeshphadtare.wordpress.com/2018/10/02/tamil-nadu-coast/"> <b>Orographic influence on the cyclonic systems</b> <\a> <br>
+<a href="https://jayeshphadtare.wordpress.com/2018/10/02/tamil-nadu-coast/"> <b>Orographic influence on the cyclonic systems</b> </a> <br>
 In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary &#946 effect. Therefore, the cyclonic storms that form over the east Indian Ocean - Maritime continent region arrive at the east coast of India. Some of these storm stall over the coast and cause <a href="https://earthobservatory.nasa.gov/images/87131/historic-rainfall-floods-southeast-india"> catastrophic flooding for several days</a>. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can bettter forecast the sever flooding events and prevent the loss of life. Initial invistigation hits that the weaker storms get blocked by the Eastern Ghats mountain ranges (<a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml"> Phadtare, 2018</a>). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the processes involved. <br>
 
 <p align="center">
