@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:jphadtar@ne.edu"}
   - {title: Github, icon: github, url: "https://github.com/jayphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jayesh-phadtare/"}
-  - {platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  - {platform: google_scholar, url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
 
 
 comments:
