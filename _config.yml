@@ -23,9 +23,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jphadtar@ne.edu"}
-  - {title: Github, icon: github, url: "https://github.com/jayphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jayesh-phadtare/"}
   - {title: Google, icon: graduation-cap, url: "https://scholar.google.com/citations?user=Di3JfScAAAAJ&hl=en"}
+  - {title: Github, icon: github, url: "https://github.com/jayphd"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
