@@ -9,6 +9,9 @@ title: "Publications"
 
 <b> Phadtare, J. </b>, Dynamics of a Quasi-Stationary Cyclonic System over Tamil Nadu Coast. <br>
 
+<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
+
+
 <ins><b>Peer Reviewed:</b><ins> 
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Quarterly Journal of the Royal Meteorological </em>
