@@ -36,7 +36,7 @@ I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-v
 <h1>Previous positions</h1>
 <p> Postdoctoral research fellow (Feb. 2020 - Mar. 2021) <br> <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science</a>, <br>
  University of Leeds, UK <br>
- Here, I studied the orographic influence of the Western Ghats on rainfall over the west coast of India [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et. al. 2022</a>]. <br> 
+ Here, I studied the orographic influence of the Western Ghats on rainfall over the west coast of India [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et al. 2022</a>]. <br> 
 
 
 
