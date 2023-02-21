@@ -7,7 +7,7 @@ title: "Publications"
 
 <b> Phadtare, J. </b>, Fernando, H.J.S., Krishnamurthy, R., Pérez Valentín, J.M., McLaughlin, K., Black , G., Dehart J., Tandon A., Shroyer, E., Jinadasa, S.U.P., Bhat, G.S.,  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign <br> 
 
-<b> Phadtare, J. </b>, Dynamics of a Quasi-Stationary Cyclonic System over Tamil Nadu Coast. <br>
+<b> Phadtare, J. </b>, Dynamics of a Quasi-Stationary Cyclonic System over the Coromandel Coast. <br>
 
 <b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
 
