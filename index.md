@@ -24,7 +24,7 @@ title: ""
 
 
 <p> Hi, I am a postdoctoral research associate in <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
-at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> investigating the interactions between monsoonal storms and ocean thermodynamics. </p>
+at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> investigating the interactions between monsoonal storms and ocean thermodynamics. I am also a visiting scholar at the School of Earth and Environment, University of Leeds where I study the orographic influence of the Western Ghats on rainfall over the west coast of India [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et al. 2022</a>]. <br> </p>
   
 <b> Research Interest: </b> <br>
 I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-valley/land-sea breezes, marine boundary layer, mesoscale convective systems, using observations and numerical modeling.
@@ -35,7 +35,7 @@ I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-v
 
 <b>Previous positions:</b><br>
  Postdoctoral research fellow (Feb. 2020 - Mar. 2021) <br> <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science</a>, University of Leeds, UK <br>
- Here, I studied the orographic influence of the Western Ghats on rainfall over the west coast of India [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et al. 2022</a>]. <br> 
+
 
 
 
