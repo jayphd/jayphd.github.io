@@ -3,7 +3,7 @@ layout: page
 title: "Presentations"
 ---
 
-<b> <ins> Conference: </ins> <\b> <br>
+<b> <ins> Conference: </ins> </b> <br>
 
 Precipitation modes over the Western Ghats orography during the summer monsoon season. EGU General Assembly 2021 <br>
 
