@@ -47,5 +47,5 @@ B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
 <b>Awards:</b> <br>
 <a href= "https://www.awsar-dst.in/"> DST-AWSAR Award </a> in 2018 by the Dept. of Science and Technology, Govt. of India for my popular science article. <br>
 
-Divech Fellowship (2012-2017) by the <a href="Divecha Centre for Climate Change"> </a> for Environemtal research.
+Granthom Fellowship (2012-2017) by the <a href="http://dccc.iisc.ac.in/"> Divecha Centre for Climate Change"> </a> for Environemtal research.
 
