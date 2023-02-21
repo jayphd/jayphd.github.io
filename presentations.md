@@ -15,3 +15,7 @@ Propagation of Mesoscale Convective Systems during Indian summer monsoon, <em> A
 
 
 <b> <ins> Other: </ins> </b> <br>
+
+Orographic Influence on Rainfall, Environmental Fluid Dynamics Seminars, University of Notre Dame, 02 November 2021
+
+
