@@ -14,7 +14,7 @@ Impact of model resolution and convective parameterization on the Western Ghats 
 Propagation of Mesoscale Convective Systems during Indian summer monsoon, <em> American Geophysical Union Meeting </em> 2015, San Francisco.  <br>
 
 
-<b> <ins> Other: </ins> </b> <br>
+<b> <ins> Seminars: </ins> </b> <br>
 
 Orographic Influence on Rainfall, <em> Environmental Fluid Dynamics Seminars </em>, University of Notre Dame, 02 November 2021
 
