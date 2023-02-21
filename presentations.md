@@ -17,4 +17,7 @@ Propagation of Mesoscale Convective Systems during Indian summer monsoon, <em> A
 <b> <ins> Seminar: </ins> </b> <br>
 
 Orographic Influence on Rainfall, <em> Environmental Fluid Dynamics Seminars </em>, University of Notre Dame, 02 November 2021. <br>
+
 Thunderstorm, Duststorms and Floods, <em> Monsoon Cafe </em>, Indian Institute of Science, 04 July 2018. <br>
+
+Historical Accounts of Indian Monsoon, <em> Monsoon Cafe </em>, Indian Institute of Science, 03 August 2016. <br>
