@@ -37,9 +37,15 @@ I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-v
  Postdoctoral research fellow (Feb. 2020 - Mar. 2021) <br> <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science</a>, University of Leeds, UK <br>
 
 
-
-
 <b>Education:</b> <br>
 Ph.D. (2020), Indian Institute of Science, Bengaluru, India <br>
 M.Tech. (2012), Indian Institute of Science, Bengaluru, India <br>
 B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
+
+
+
+<b>Awards:</b> <br>
+<a href= "https://www.awsar-dst.in/"> DST-AWSAR Award </a> in 2018 by the Dept. of Science and Technology, Govt. of India for my popular science article. <br>
+
+Divech Fellowship (2012-2017) by the Divecha Centre for Climate Change for Environemtal research.
+
