@@ -33,14 +33,14 @@ I primarily study mesoscale weather phenomena, viz., cyclonic storms, mountain-v
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-%E2%80%93-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
-<b>Previous positions</b><br>
+<b>Previous positions:</b><br>
 <p> Postdoctoral research fellow (Feb. 2020 - Mar. 2021) <br> <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science</a>, <br>
  University of Leeds, UK <br>
  Here, I studied the orographic influence of the Western Ghats on rainfall over the west coast of India [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et al. 2022</a>]. <br> 
 
 
 
-<b>Education<b> <br>
+<b>Education:<b> <br>
 Ph.D. (2020), Indian Institute of Science, Bengaluru, India <br>
 M.Tech. (2012), Indian Institute of Science, Bengaluru, India <br>
 B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
