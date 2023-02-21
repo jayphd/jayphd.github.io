@@ -9,6 +9,6 @@ Aircraft Observations during the MISO-BOB Field Campaign, <em> American Geophysi
 
 Precipitation modes over the Western Ghats orography during the summer monsoon season. <em> EGU General Assembly </em> 2021, Virtual <br>
 
-Impact of model resolution and convective parameterization on the Western Ghats rainfall regimes. 11th Conference on Transition of Research to Operations. AMS meeting 2021, Virtual / Abstract #381464. <br>
+Impact of model resolution and convective parameterization on the Western Ghats rainfall regimes. 11th Conference on Transition of Research to Operations. AMS meeting 2021, Virtual. <br>
 
 Propagation of Mesoscale Convective Systems during Indian summer monsoon, <em> American Geophysical Union Meeting </em> 2015, San Francisco.  <br>
