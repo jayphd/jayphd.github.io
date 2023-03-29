@@ -10,7 +10,7 @@ title: "Publications"
 
 <ins><b>Peer Reviewed:</b><ins> 
  
- <b> Phadtare, J. </b>, <em> et.al. </em> (Under Review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
+ <b> Phadtare, J. </b>, <em> et al. </em> (Under Review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
  <b> Phadtare, J. </b> (Under Review), Influence of Underlying Topography on post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
 
