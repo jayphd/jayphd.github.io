@@ -35,9 +35,12 @@ In a weak background flow, the cyclonic storms in the tropics move westwards due
 <b>  <a href="https://meetingorganizer.copernicus.org/EGU21/EGU21-15748.html">Indian Monsoon Precipitation over Orography: Verification and Enhancement of Understanding (IMPROVE) </a>  </b> <br>
   The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air-parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., Mumbai flood 2005, Kerala flood 2018.  My research at the National Centre for Atmospheric Science, University of Leeds invistigated the orographic effects of the Western Ghats on the west coast rainfall. A better understanding and model representation of these effects is necessary to improve the weather forecasts. <br>
   
-p {
-    margin-bottom: 3cm;
-}
+<style>
+  .bottom-three {
+     margin-bottom: 3cm;
+  }
+</style>
+
 
 <b> <a href="https://journals.ametsoc.org/view/journals/mwre/147/10/mwr-d-18-0346.1.xml"> Cloud Life Cycle and Organization in Indian Summer Monsoon
 </a> </b> <br>
