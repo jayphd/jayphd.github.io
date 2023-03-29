@@ -10,9 +10,9 @@ title: "Publications"
 
 <ins><b>Peer Reviewed:</b><ins> 
  
- <b> Phadtare, J. </b>, Fernando, H.J.S., Krishnamurthy, R., Pérez Valentín, J.M., McLaughlin, K., Black , G., Dehart J., Tandon A., Shroyer, E., Jinadasa, S.U.P., Bhat, G.S. (Under Review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. <em>.<br> 
+ <b> Phadtare, J. </b>, <em> et.al. </em> (Under Review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. <em>.<br> 
 
- <b> Phadtare, J. </b>, Influence of Underlying Topography on post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology <em>. <br>
+ <b> Phadtare, J. </b>, Influence of Underlying Topography on post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
  
