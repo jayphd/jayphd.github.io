@@ -14,7 +14,7 @@ Note: The LAT-LON grid is set to (1/12) degree spatial resolution. The native IN
 
 Tracking dataset columns:
 
-ID Day Month Hour Minutes lat lon Area ImageNumber SplitParentID MergeParentID MergeChldArea MinTemperature CoreArea AvgTemperature
+ID, Day, Month, Hour, Minutes, lat, lon, Area, ImageNumber, SplitParentID, MergeParentID, MergeChldArea, MinTemperature, CoreArea, AvgTemperature
 
 References: <br>
 
