@@ -11,7 +11,7 @@ The tracking is based on the overlap techinique (Williams and Houze, 1987) where
 3. MCS are stored in .csv files in the 'MCSs_dataset' folder.
 
 <p align="center">
-<img src="/assets/Tracking_animation.gif" width="1000" height="500">	
+<img src="/assets/Tracking_animation.gif" width="850" height="500">	
 </p>
 
 Note: The LAT-LON grid is set to (1/12) degree spatial resolution. The native INSAT-3D image resolution is 4 km. Modify the spatial resolution of the grid as needed.
