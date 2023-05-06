@@ -24,7 +24,7 @@ title: ""
 
 
 <p> Hi, I am a postdoctoral research associate in <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
-at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to undestand the monsoonal storms using high-resolution observations from ships and aircraft. I am also a visiting scholar at the School of Earth and Environment, University of Leeds where I study the orographic influence of the Western Ghats on the Indian monsoon [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et al. 2022</a>]. <br> </p>
+at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to undestand the structure and evolution of monsoonal storms using high-resolution observations from ships and aircraft. I am also a visiting scholar at the School of Earth and Environment, University of Leeds where I study the orographic influence of the Western Ghats on the Indian monsoon [ <a  href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4367/"> Phadtare et al. 2022</a>]. <br> </p>
 
 <b>Previous positions:</b><br>
 Postdoctoral research fellow (Feb. 2020 - Mar. 2021) <br> <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science</a>, University of Leeds, UK <br>
