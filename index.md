@@ -30,7 +30,7 @@ at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.
 Postdoctoral research fellow (Feb. 2020 - Mar. 2021) <br> <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science</a>, University of Leeds, UK <br>
 
 <b> Research Interest: </b> <br>
-I primarily study mesoscale weather phenomena, viz., mountain-valley/land-sea breezes, boundary layer processes, mesoscale convective systems, cyclonic storms using observations and numerical modeling.
+I primarily study mesoscale weather phenomena, viz., mesoscale convective systems, orographic effects, boundary layer processes, cyclonic storms, using observations and numerical modeling.
 
 <b> News articles on my research: </b> <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
