@@ -29,27 +29,12 @@ at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.
 <b> Research Interest: </b> <br>
 I primarily study mesoscale weather phenomena, viz., mesoscale convective systems, orographic effects, boundary layer processes, cyclonic storms, using observations and numerical modeling.
 
-<style> 
-  body {  
-    background-color: white;  
-  } 
-  img {  
-    width: 200px; 
-    float: right; 
-    margin-left: 100px;
-  } 
-  div { 
-    float: right; 
-    width: calc(300px); 
-  } 
-</style> 
- 
-<div>
- <b>Education:</b> <br>
+
+<b>Education:</b> <br>
 Ph.D. (2020), Indian Institute of Science, Bengaluru, India <br>
 M.Tech. (2012), Indian Institute of Science, Bengaluru, India <br>
 B.E. (2008), Sardar Patel College of Engineering, Mumbai, India <br>
-</div>
+
 
 <b> News articles on my research: </b> <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
