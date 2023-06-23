@@ -33,7 +33,7 @@ I primarily study mesoscale weather phenomena, viz.,
   <li> orographic effects </li> 
   <li> cyclonic storms </li>
   <li> boundary layer processes </li>
-<ul>
+</ul>
 
 
 <h2>Education:</h2>
