@@ -30,9 +30,9 @@ at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.
   <div style="margin-left: 70%;" >
     <h2>Education:</h2>
     <ul>
-        <li> Ph.D. (2020), Indian Institute of Science, Bengaluru, India </li>
-        <li> M.Tech. (2012), Indian Institute of Science, Bengaluru, India </li>
-        <li> B.E. (2008), Sardar Patel College of Engineering, Mumbai, India </li>
+        <li> Ph.D. (2020),<br> Indian Institute of Science, Bengaluru, India </li>
+        <li> M.Tech. (2012),<br> Indian Institute of Science, Bengaluru, India </li>
+        <li> B.E. (2008),<br> Sardar Patel College of Engineering, Mumbai, India </li>
     </ul>
   </div>
 </div>
