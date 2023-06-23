@@ -26,9 +26,7 @@ title: ""
 <p> Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
 at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to undestand the structure and evolution of monsoonal storms using high-resolution observations from ships and aircraft. I am also a visiting scholar at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS) </a>, University of Leeds where I study the influence of the Western Ghats on the summer monsoon rainfall over the peninsular India from observations and models simulations [ <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project website </a>]. <br> </p>
 
-<div>
-  <div>
-    <h2> Research Interest: </h2> 
+<h2> Research Interest: </h2> 
 I primarily study mesoscale weather phenomena, viz.,
 <ul>
   <li> mesoscale convective systems </li>
@@ -36,7 +34,8 @@ I primarily study mesoscale weather phenomena, viz.,
   <li> cyclonic storms </li>
   <li> boundary layer processes </li>
 </ul>
-  </div>
+
+<div>
   <div>
     <h2>Education:</h2>
         Ph.D. (2020), Indian Institute of Science, Bengaluru, India <br>
