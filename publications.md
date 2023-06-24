@@ -9,13 +9,11 @@ title: "Publications"
 
 
 <ins><b>Peer Reviewed:</b><ins> 
- 
- <b> Phadtare, J. </b>, <em> et al. </em> (Under Review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
-
  <b> Phadtare, J. </b> (Under Review), Influence of Underlying Topography on post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
  
+<b> Phadtare, J. </b>, <em> et al. </em> (Accepted with minor revisions),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
 Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. <em> Mon. Wea. Rev. </em>. <a href ="https://journals.ametsoc.org/view/journals/mwre/151/2/MWR-D-22-0076.1.xml"> [Link]</a>
 
