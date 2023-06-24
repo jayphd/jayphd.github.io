@@ -8,7 +8,7 @@ title: "Publications"
 <b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
 
 
-<ins><b>Peer Reviewed:</b><ins> 
+<ins><b>Peer Reviewed:</b></ins> 
 <b> Phadtare, J. </b> (Under Review), Influence of Underlying Topography on post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
