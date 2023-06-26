@@ -36,8 +36,6 @@ I primarily study mesoscale weather phenomena, viz.,
   <li> boundary layer processes </li>
 </ul>
 
-
-<h2> News articles on my research: </h2>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-%E2%80%93-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
