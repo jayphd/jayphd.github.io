@@ -26,7 +26,10 @@ title: ""
 <p> Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
 at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to undestand the structure and evolution of monsoonal storms using high-resolution observations from ships and aircraft. I am also a visiting scholar at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS) </a>, University of Leeds where I study the influence of the Western Ghats on the summer monsoon rainfall over the peninsular India from observations and models simulations [ <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project website </a>]. <br> </p>
 
-
+<div style="margin-left: 50%;"> 
+   Right Div
+</div>
+        
 <h2> Research Interest: </h2> 
 I primarily study mesoscale weather phenomena, viz.,
 <ul>
@@ -49,5 +52,5 @@ I primarily study mesoscale weather phenomena, viz.,
 
 <h2>Awards:</h2>
 <a href= "https://www.awsar-dst.in/"> DST-AWSAR Award </a> in 2018 by the <em> Dept. of Science and Technology, Govt. of India </em> for <a href ="https://jayeshphadtare.wordpress.com/2018/10/02/tamil-nadu-coast/"> best science article </a>. <br>
-Grantham Fellowship (2012-2017) by the <a href="http://dccc.iisc.ac.in/"> Divecha Centre for Climate Change </a> for Environemtal research.
+Grantham Fellowship (2012-2017) by the <a href="http://dccc.iisc.ac.in/"> Divecha Centre for Climate Change </a> for Environmental research.
 
