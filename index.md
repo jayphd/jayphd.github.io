@@ -27,13 +27,12 @@ title: ""
 at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to understand the structure and evolution of monsoonal storms using high-resolution observations from ships and aircraft. I am also a visiting scholar at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS) </a>, University of Leeds where I study the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations [ <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project website </a>]. <br> </p>
 
 <div style="margin-left: 50%;"> 
-   <body>
-   <p style="text-align:left;">
+   
    Contact: jphadtar@nd.edu <br>
    318, Cushing Hall of Engineering <br>
    University of Notre Dame, Notre Dame <br>
-   IN - 46556, USA </p>
-   </body>
+   IN - 46556, USA 
+ 
 </div>
 
         
