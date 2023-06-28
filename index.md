@@ -28,7 +28,7 @@ at the University of Notre Dame. I am working on the <a href="https://efmlab.nd.
 
 <div style="margin-left: 50%;"> 
    <body>
-   <p style="text-align:right;">
+   <p style="text-align:left;">
    Contact: jphadtar@nd.edu <br>
    318, Cushing Hall of Engineering <br>
    University of Notre Dame, Notre Dame <br>
