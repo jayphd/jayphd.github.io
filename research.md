@@ -33,6 +33,7 @@ Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLa
 In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region tend to arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause catastrophic flooding for several days, e.g. <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods </a>. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats mountain ranges (Phadtare, 2018). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the processes involved. <br>
 
 <p align="center">
+Evolution of different terms in the vorticity budget as a cyclonic system crosses the peninsula <br>
 <img src="/assets/voticity_budget.png" alt="" width="850" height="750">
 </p>
 
