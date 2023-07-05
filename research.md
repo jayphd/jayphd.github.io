@@ -19,10 +19,18 @@ img {
 <h2> Reconnaissance of the Tropical Supercluster with Hurricane Hunter Aircraft </h2> 
 At the University of Notre Dame, my research is funded through the MISO-BOB project sponsored by the US Office of Naval Research (ONR). The overarching goal of MISO-BOB is to understand the interplay between the strong and weak phases of the South Asian Monsoon (SAM) and the Bay of Bengal. A sound understanding and modelling of the interaction between the storms and the ocean is vital for monsoon forecasting. To this end, in situ field observations were collected using ships, buoys, WC130J aircraft, and weather balloons (radiosondes) in the MISO-BOB project. The hurricane hunter aircraft (Hercules WC130J) of the US Air Force was used to collect observations from the storms that formed over the Indian Ocean and Bay of Bengal region during June 2018. The aircraft flew through a tropical cloud supercluster over the Indian Ocean and gathered data from the onboard instruments and dorpsondes at different locations. Analysis of this unique dataset revealed the internal structure of the supercluster, its cold pool, melting level and similarities between the convectively coupled Kelvin waves. <br>
 
-<p align="center">
+
  <i> Track of the Hurricane Hunter aircraft through the cloud supercluster </i>  <br>
-<img src="/assets/WC130J_animation.gif" alt="" width="200" height="300">
-<img src="/assets/WC130J_col.png" alt="" width="300" height="300"></p>
+ <div class="row">
+  <div class="column">
+     <img src="/assets/WC130J_animation.gif" alt="" style=width="200" height="300">
+  </div>
+  <div class="column">
+    <img src="/assets/WC130J_col.png" alt="" style=style=width="200" height="300">
+  </div>
+ </div>
+
+
 <p align="center">
    <i> Dropsonde observations from the cloud supercluster  </i> <br>
 <img src="/assets/WC130J_sound.jpg" alt="" width="900" height="500"></p>
