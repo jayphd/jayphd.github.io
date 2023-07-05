@@ -23,10 +23,10 @@ At the University of Notre Dame, my research is funded through the MISO-BOB proj
  <i> Track of the Hurricane Hunter aircraft through the cloud supercluster </i>  <br>
  <div class="row">
   <div class="column">
-     <img src="/assets/WC130J_sound.jpg" alt="" style=width="100" height="100">
+     <img src="/assets/WC130J_animation.gif" alt="" style=width="200" height="200">
   </div>
   <div class="column">
-    <img src="/assets/WC130J_col.png" alt="" style=style=width="100" height="100">
+    <img src="/assets/WC130J_col.png" alt="" style=style=width="200" height="150">
   </div>
  </div>
 
