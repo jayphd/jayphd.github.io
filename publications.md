@@ -3,12 +3,7 @@ layout: page
 title: "Publications"
 ---
 
- <ins><b>In Preparation:</b></ins> 
-
-<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
-
-
-<ins><b>Peer Reviewed:</b></ins>
+ <ins><b>Peer Reviewed:</b></ins>
 
 <b> Phadtare, J. </b> (Under Review), Influence of Underlying Topography on post-Monsoon Cyclonic Systems over Indian Peninsula. <em> Meteorology </em>. <br>
 
@@ -27,3 +22,7 @@ forcing during Indian summer monsoon season, <em> Mon. Wea. Rev. </em>, 147(10),
 
 <b>Phadtare, J.</b>, 2018. Role of Eastern Ghats orography and cold pool in an extreme rainfall event over Chennai
 on 1 December 2015. <em> Mon. Wea. Rev. </em>, 146(4), pp.943-965. <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml" target="_blank" >[Link]</a>
+
+<ins><b>In Preparation:</b></ins> 
+
+<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
