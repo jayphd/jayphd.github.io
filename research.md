@@ -20,10 +20,10 @@ img {
 At the University of Notre Dame, my research is funded through the MISO-BOB project sponsored by the US Office of Naval Research (ONR). The overarching goal of MISO-BOB is to understand the interplay between the strong and weak phases of the South Asian Monsoon (SAM) and the Bay of Bengal. The warm basin of the Bay of Bengal is a strong attractor for the zonally propagating equatorial weather signals, during the summer months. As a result, the eastward propagating tropical systems are pulled northwards by the Bay of Bengal. It appears that the strength of SAM is often determined by these northward propagating signals, and a complex coupling between ocean and atmosphere determines the course of SAM in a season. Thus, understanding and modelling this interaction is vital for monsoon forecasting. To this end, in situ field observations were collected using ships, buoys, WC130J aircraft, and weather balloons (radiosondes) in the MISO-BOB project over the SAM region. My primary task is to investigate storm dynamics and atmospheric boundary layer processes with these observations.  <br>
 
 <p align="center">
-<img src="/assets/WC130J_animation.gif" alt="" width="500" height="300"> <p></p>
+<img src="/assets/WC130J_animation.gif" alt="" width="500" height="300"> </p>
+<p align="center">
+<img src="/assets/WC130J_sound.jpg" alt="" width="700" height="500"></p>
 
-<img src="/assets/WC130J_sound.jpg" alt="" width="700" height="500">
-</p>
   
 <h2> Orographic Influence on the Cyclonic Systems</h2>
 In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause <a href="https://www.nasa.gov/feature/goddard/97b-north-indian-ocean"> catastrophic flooding for several days </a>. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats mountain ranges (<a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml">Phadtare, 2018</a>). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the processes involved. <br>
