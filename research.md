@@ -20,15 +20,15 @@ img {
 At the University of Notre Dame, my research is funded through the MISO-BOB project sponsored by the US Office of Naval Research (ONR). The overarching goal of MISO-BOB is to understand the interplay between the strong and weak phases of the South Asian Monsoon (SAM) and the Bay of Bengal. A sound understanding and modelling of the interaction between the storms and the ocean is vital for monsoon forecasting. To this end, in situ field observations were collected using ships, buoys, WC130J aircraft, and weather balloons (radiosondes) in the MISO-BOB project. The hurricane hunter aircraft (Hercules WC130J) of the US Air Force was used to collect observations from the storms that formed over the Indian Ocean and Bay of Bengal region during June 2018. The aircraft flew through a tropical cloud supercluster over the Indian Ocean and gathered data from the onboard instruments and dorpsondes at different locations. Analysis of this unique dataset revealed the internal structure of the supercluster, its cold pool, melting level and similarities between the convectively coupled Kelvin waves. <br>
 
 <p align="center">
- <em> Track of the Hurricane Hunter aircraft through the cloud supercluster </em>  <br>
+ <i> Track of the Hurricane Hunter aircraft through the cloud supercluster </i>  <br>
 <img src="/assets/WC130J_animation.gif" alt="" width="500" height="300"> </p>
 <p align="center">
-   <em> Dropsonde observations from the cloud supercluster  <em> <br>
+   <i> Dropsonde observations from the cloud supercluster  </i> <br>
 <img src="/assets/WC130J_sound.jpg" alt="" width="900" height="500"></p>
 
 Ref:<br>
 
-Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLaughlin, G. Black, J. Dehart, A. Tandon, E., S.U.P. Jinadasa, G.S.Bhat. (under review) Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign.  <em> Sci. Rep. </em> 
+Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLaughlin, G. Black, J. Dehart, A. Tandon, E., S.U.P. Jinadasa, G.S.Bhat. (under review) Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign.  <i> Sci. Rep. </i> 
   
 <h2> Orographic Influence on the Cyclonic Systems </h2>
 In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region tend to arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause catastrophic flooding for several days, e.g. <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods </a>. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats mountain ranges (Phadtare, 2018). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the processes involved. <br>
