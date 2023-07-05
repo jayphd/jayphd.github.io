@@ -22,7 +22,7 @@ At the University of Notre Dame, my research is funded through the MISO-BOB proj
 <p align="center">
 <img src="/assets/WC130J_animation.gif" alt="" width="500" height="300"> </p>
 <p align="center">
-<img src="/assets/WC130J_sound.jpg" alt="" width="700" height="500"></p>
+<img src="/assets/WC130J_sound.jpg" alt="" width="900" height="500"></p>
 
   
 <h2> Orographic Influence on the Cyclonic Systems</h2>
