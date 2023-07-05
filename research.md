@@ -30,7 +30,7 @@ Ref:<br>
 
 Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLaughlin, G. Black, J. Dehart, A. Tandon, E., S.U.P. Jinadasa, G.S.Bhat. (under review) Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign.  <i> Sci. Rep. </i> 
   
-<h2> Orographic Influence on the Cyclonic Systems </h2>
+<h2> Influence of the underlying Orography on the Cyclonic Systems </h2>
 In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region tend to arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause catastrophic flooding for several days, e.g. <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods </a>. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats mountain ranges (Phadtare, 2018). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the processes involved. <br>
 
 <p align="center">
