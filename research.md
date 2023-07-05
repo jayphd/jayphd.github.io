@@ -21,7 +21,7 @@ At the University of Notre Dame, my research is funded through the MISO-BOB proj
 
 <p align="center">
  <i> Track of the Hurricane Hunter aircraft through the cloud supercluster </i>  <br>
-<img src="/assets/WC130J_animation.gif" alt="" width="450" height="300">
+<img src="/assets/WC130J_animation.gif" alt="" width="200" height="300">
 <img src="/assets/WC130J_col.png" alt="" width="300" height="300"></p>
 <p align="center">
    <i> Dropsonde observations from the cloud supercluster  </i> <br>
