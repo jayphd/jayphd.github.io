@@ -15,9 +15,8 @@ img {
 </head>
 <body>
  
-<h1> Current topics: </h1>
 
- <h2>Monsoon Intraseasonal Oscillation in the Bay of Bengal (MISO-BOB)</h2> 
+<h2> Reconnaissance of the Tropical Supercluster with Hurricane Hunter Aircraft </h2> 
 At the University of Notre Dame, my research is funded through the MISO-BOB project sponsored by the US Office of Naval Research (ONR). The overarching goal of MISO-BOB is to understand the interplay between the strong and weak phases of the South Asian Monsoon (SAM) and the Bay of Bengal. The warm basin of the Bay of Bengal is a strong attractor for the zonally propagating equatorial weather signals, during the summer months. As a result, the eastward propagating tropical systems are pulled northwards by the Bay of Bengal. It appears that the strength of SAM is often determined by these northward propagating signals, and a complex coupling between ocean and atmosphere determines the course of SAM in a season. Thus, understanding and modelling this interaction is vital for monsoon forecasting. To this end, in situ field observations were collected using ships, buoys, WC130J aircraft, and weather balloons (radiosondes) in the MISO-BOB project over the SAM region. My primary task is to investigate storm dynamics and atmospheric boundary layer processes with these observations.  <br>
 <p align="center">
 <img src="/assets/MISO_bob_website.png" alt="" width="750" height="670">	
@@ -30,7 +29,6 @@ In a weak background flow, the cyclonic storms in the tropics move westwards due
 <img src="/assets/Figure2.png" alt="" width="750" height="750">
 </p>
  
-<h1> Previous topics: </h1>
 
 <h2> Indian Monsoon Precipitation over Orography: Verification and Enhancement of Understanding (IMPROVE) </h2>
   The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., the Mumbai flood in July 2005, and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds investigated the orographic effects of the Western Ghats on the west coast rainfall. A better understanding and model representation of these effects is necessary to improve weather forecasts.
