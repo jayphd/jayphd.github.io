@@ -27,7 +27,7 @@ At the University of Notre Dame, my research is funded through the MISO-BOB proj
 <img src="/assets/WC130J_sound.jpg" alt="" width="900" height="500"></p>
 
 Ref:<br>
-Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLaughlin, G. Black, J. Dehart, A. Tandon, E., S.U.P. Jinadasa, G.S.Bhat.  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign. Sci. rep. (under review)
+Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLaughlin, G. Black, J. Dehart, A. Tandon, E., S.U.P. Jinadasa, G.S.Bhat. (under review) Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign. Sci. rep. 
   
 <h2> Orographic Influence on the Cyclonic Systems </h2>
 In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region tend to arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause catastrophic flooding for several days, e.g. <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods </a>. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats mountain ranges (Phadtare, 2018). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the processes involved. <br>
@@ -37,7 +37,7 @@ In a weak background flow, the cyclonic storms in the tropics move westwards due
 </p>
 
 Ref:<br>
-Phadtare, J. (2018) Role of Eastern Ghats Orography and Cold Pool in an Extreme Rainfall Event over Chennai on 1 December 2015. In: MONTHLY WEATHER REVIEW, 146 (4). pp. 943-965.
+Phadtare, J. (2018) Role of Eastern Ghats Orography and Cold Pool in an Extreme Rainfall Event over Chennai on 1 December 2015. Mon.Wea.Rev., 146 (4). pp. 943-965.
 
 <h2> Indian Monsoon Precipitation over Orography: Verification and Enhancement of Understanding (IMPROVE) </h2>
   The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., the Mumbai flood in July 2005, and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds investigated the orographic effects of the Western Ghats on the west coast rainfall. A better understanding and model representation of these effects is necessary to improve weather forecasts.
