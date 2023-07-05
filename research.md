@@ -26,7 +26,7 @@ At the University of Notre Dame, my research is funded through the MISO-BOB proj
      <img src="/assets/WC130J_animation.gif" alt="" style=width="200" height="200">
   </div>
   <div class="column">
-    <img src="/assets/WC130J_col.png" alt="" style=style=width="200" height="150">
+    <img src="/assets/WC130J_col.png" alt="" style=style=width="200" height="200">
   </div>
  </div>
 
