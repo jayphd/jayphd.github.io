@@ -49,7 +49,7 @@ Phadtare, J. (2018) Role of Eastern Ghats Orography and Cold Pool in an Extreme 
   <p>The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., the Mumbai flood in July 2005, and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds investigated the orographic effects of the Western Ghats on the west coast rainfall and its representation in numerical models. It was concluded that a a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resoluion, models overestimates rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from anomalously weak orographic blocking effect in models. </p>
   
 <p align="center">
-<i> A schematic of conditions favouring offshore and onshore rainfall </i> <br>
+<i> Comparison of orographic blocking in radisonde observations and 12-km, 4-km, and 1.33-km model simulations </i> <br>
 <img src="/assets/wrf_fr.png" alt="" width="850" height="750">
 </p>
 
