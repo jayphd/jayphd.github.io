@@ -50,7 +50,7 @@ Phadtare, J. (2018) Role of Eastern Ghats Orography and Cold Pool in an Extreme 
   
 <p align="center">
 <i> A schematic of conditions favouring offshore and onshore rainfall </i> <br>
-<img src="/assets/Schematic_wrf.png" alt="" width="850" height="750">
+<img src="/assets/wrf_fr.png" alt="" width="850" height="750">
 </p>
 
 Ref: <br>
