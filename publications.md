@@ -2,6 +2,10 @@
 layout: page
 title: "Publications"
 ---
+<ins><b>In Preparation:</b></ins> 
+
+<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
+
 
  <ins><b>Peer Reviewed:</b></ins>
 
@@ -23,6 +27,6 @@ forcing during Indian summer monsoon season, <em> Mon. Wea. Rev. </em>, 147(10),
 <b>Phadtare, J.</b>, 2018. Role of Eastern Ghats orography and cold pool in an extreme rainfall event over Chennai
 on 1 December 2015. <em> Mon. Wea. Rev. </em>, 146(4), pp.943-965. <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml" target="_blank" >[Link]</a>
 
-<ins><b>In Preparation:</b></ins> 
-
-<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
+<ins><b>Other:</b></ins>
+Phadtare, J.</b>. Why floods occur over Tamil Nadu Coast?. <i> Augmenting Writing Skills for Articulating
+Research Award 2018 </i>, Dept. of Science and Technology, Govt. of India.
