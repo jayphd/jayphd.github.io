@@ -38,7 +38,7 @@ The east coast of India is prone to extereme floods during the winter monsoon, e
 
 <p align="center">
 <i> Piling up of cold pool (a 'thermodynamic mountain') against the orography.</i> <br>
-<img src="/assets/Cold_pool.png" alt="" width="850" height="750">
+<img src="/assets/Cold_pool.png" alt="" width="500" height="300">
 </p>
 <p align="center">
 <i> Tilting of cyclonic vortex against orography.</i> <br>
