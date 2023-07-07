@@ -37,12 +37,10 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 </div>
    
 <h2> Research Interest: </h2> 
-I primarily study mesoscale weather phenomena, viz.,
 <ul>
-  <li> mesoscale convective systems </li>
-  <li> orographic effects </li> 
-  <li> cyclonic storms </li>
-  <li> boundary layer processes </li>
+  <li> Cloud and storm dynamics </li>
+  <li> Extreme weather forecasting </li> 
+  <li> South Asian Monsoon </li>
 </ul>
 
 Print media articles on my research: <br>
