@@ -38,8 +38,8 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
    
 <h2> Research Interest: </h2> 
 <ul>
-  <li> Cloud and storm dynamics </li>
-  <li> Extreme weather forecasting </li> 
+  <li> Mesoscale Dynamics</li>
+  <li> Tropical Convection</li> 
   <li> South Asian Monsoon </li>
 </ul>
 
