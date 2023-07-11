@@ -2,16 +2,6 @@
 layout: page
 title: ""
 ---
-<html>
-<head>
-<style>
-div {
-  margin-righ: 100px;
-}
-</style>
-</head>
-<body>
-
 <p style="margin-right: 60px;"> Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
 at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to understand the structure and evolution of monsoonal storms using high-resolution observations from ships and aircraft. I am also involved in the <a href = "https://efmlab.nd.edu/research/swex/">SWEX</a> project which studies the downslope windstorms over the mountains of southern California. These hot and dry winds cause wildfires in this region. 
   
@@ -36,12 +26,3 @@ Print media articles on my research: <br>
         <li> M.Tech. (2012), Indian Institute of Science, Bengaluru, India </li>
         <li> B.E. (2008), Sardar Patel College of Engineering, Mumbai, India </li>
 </ul>
-
-<div><h2>Contact:</h2>
-jphadtar@nd.edu <br>
-318 Cushing Hall of Engineering <br>
-University of Notre Dame<br>
-Notre Dame, IN 46545, USA.</div>
-
-</body>
-</html>
