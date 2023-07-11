@@ -6,7 +6,7 @@ title: ""
 <head>
 <style>
 div {
-  margin-left: 100px;
+  margin-righ: 100px;
 }
 </style>
 </head>
