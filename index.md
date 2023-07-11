@@ -2,24 +2,6 @@
 layout: page
 title: ""
 ---
-<style> 
-  body {  
-    background-color: white;  
-  } 
-  img {  
-    width: 200px; 
-    float: right; 
-    margin-left: 100px;
-  } 
-  div { 
-    float: right; 
-    width: calc(300px); 
-  } 
-</style> 
- 
-<div>
- <img src="MyPhoto.JPG"/>
-</div>
 
 
 <p style="margin-right: 60px;"> Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
@@ -28,13 +10,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
  Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>. </p>
 
 
-<div> <p style="margin-left: 60px;">
-   <b> Contact: </b> jphadtar@nd.edu <br>
-   318, Cushing Hall of Engineering <br>
-   University of Notre Dame  <br>
-   Notre Dame, IN - 46556, USA</p>
- 
-</div>
+
    
 <h2> Research Interest: </h2> 
 <ul>
