@@ -2,14 +2,14 @@
 layout: page
 title: ""
 ---
-This MATLAB package extracts MCSs from gridded IR images of a geostationary satellite. The tracking is based on the overlap technique (Williams and Houze, 1987) where the continuity of an MCS is decided according to the overlaps in two frames. 
+This MATLAB package extracts depp cloud systems (CSs) from gridded IR images of a geostationary satellite. The tracking is based on the overlap technique (Williams and Houze, 1987) where the continuity of CSs is decided according to the overlapped areas between two frames. 
 
 Code is available on my Github repository: <br> 
 <a href="https://github.com/jayphd/Track_MCSs/"> https://github.com/jayphd/Track_MCSs/ </a>
 
 1. For the INSAT-3D/3DR raw data, use Grid_data.m for geolocating and gridding the data.
 2. Run Track_CS.m for tracking of MCSs in the gridded dataset.
-3. MCS are stored in .csv files in the 'MCSs_dataset' folder.
+3. MCSs are stored in .csv files in the 'MCSs_dataset' folder.
 
 Note: The LAT-LON grid has been set as (1/12.5) degree spatial resolution. The native Kalpna-1 image resolution is 8 km. The native INSAT-3D/INSAT-3DR image resolution is 4 km. Modify the spatial resolution of the grid as needed.
 
