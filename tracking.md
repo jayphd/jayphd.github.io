@@ -8,7 +8,7 @@ This MATLAB package extracts MCSs from gridded IR images of a geostationary sate
 2. Run Track_CS.m for tracking of MCSs in the gridded dataset.
 3. MCS are stored in .csv files in the 'MCSs_dataset' folder.
 
-Note: The LAT-LON grid can be set to (1/12.5) degree spatial resolution. The native Kalpna-1 image resolution is 8 km. The native INSAT-3D/INSAT-3DR image resolution is 4 km. Modify the spatial resolution of the grid as needed.
+Note: The LAT-LON grid has been set as (1/12.5) degree spatial resolution. The native Kalpna-1 image resolution is 8 km. The native INSAT-3D/INSAT-3DR image resolution is 4 km. Modify the spatial resolution of the grid as needed.
 
 Tracking dataset columns:
 
