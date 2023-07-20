@@ -2,9 +2,12 @@
 layout: page
 title: ""
 ---
-This MATLAB package extracts MCSs from gridded IR images of a geostationary satellite. The tracking is based on the overlap technique (Williams and Houze, 1987) where the continuity of an MCS is decided according to the overlaps in two frames.
+This MATLAB package extracts MCSs from gridded IR images of a geostationary satellite. The tracking is based on the overlap technique (Williams and Houze, 1987) where the continuity of an MCS is decided according to the overlaps in two frames. 
 
-1. Use Grid_data.m for gridding raw data from satellite.
+Code is available on my Github repository: <br> 
+<a href="https://github.com/jayphd/Track_MCSs/"> https://github.com/jayphd/Track_MCSs/ </a>
+
+1. For the INSAT-3D/3DR raw data, use Grid_data.m for geolocating and gridding the data.
 2. Run Track_CS.m for tracking of MCSs in the gridded dataset.
 3. MCS are stored in .csv files in the 'MCSs_dataset' folder.
 
@@ -18,8 +21,7 @@ ID, Day, Month, Hour, Minutes, lat, lon, Area, ImageNumber, SplitParentID, Merge
 <img src="/assets/Tracking.gif" width="850" height="500">	
 </p>
 
-Code is available on my Github repository: <br> 
-<a href="https://github.com/jayphd/Track_MCSs/"> https://github.com/jayphd/Track_MCSs/ </a>
+
 
 References: <br>
 
