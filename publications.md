@@ -11,7 +11,7 @@ title: "Publications"
 
 <b> Phadtare, J. </b> (Under Review), Influence of Underlying Topography on post-Monsoon Cyclonic Systems over Indian Peninsula. <em> Meteorology </em>. <br>
 
-<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Under Review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
+<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Accepted). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
  
 <b> Phadtare, J. </b>, <em> et al. </em> (Accepted with minor revisions),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
