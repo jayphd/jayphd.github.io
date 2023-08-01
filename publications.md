@@ -13,7 +13,7 @@ title: "Publications"
  
 <b> Phadtare, J. </b>, <em> et al. </em> (Minor revisions),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
-<b> Phadtare, J. </b> (2023), Influence of Underlying Topography on post-Monsoon Cyclonic Systems over Indian Peninsula. <em> Meteorology </em>. <a href="https://www.mdpi.com/2674-0494/2/3/20" target="_blank" >[Link]</a> <br>
+Phadtare, Jayesh. 2023. "Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula". <em> Meteorology </em> 2, no. 3: 329-343. https://doi.org/10.3390/meteorology2030020. <a href="https://www.mdpi.com/2674-0494/2/3/20" target="_blank" >[Link]</a> <br>
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Accepted). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
 
