@@ -9,8 +9,6 @@ title: "Publications"
 
  <ins><b>Peer Reviewed:</b></ins>
 
-
- 
 <b> Phadtare, J. </b>, <em> et al. </em> (Minor revisions),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
 
