@@ -7,7 +7,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
   
 Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>. </p> 
 
-<p>I did my Ph.D. at the Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore. For my Ph.D. thesis, I wrote an automated cloud-tracking algorithm and studied the organization of deep convection from the INSAT satellite images. With the help of WRF model simulations, I also proposed an orographic blocking mechanism for the extreme rainfall events responsible for the South India floods in 2015. </p> 
+<p>I did my Ph.D. at the Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore. For my Ph.D. thesis, I wrote an automated cloud-tracking algorithm and studied the organization of deep convection from the INSAT satellite images. With the help of WRF model simulations, I also proposed an orographic blocking mechanism for the extreme rainfall events responsible for the South India floods in 2015. This was the first study to link extreme rainfall over the east coast of India to the Eastern ghats mountains. </p> 
 
 <h2> Research Interest: </h2> 
 <ul>
