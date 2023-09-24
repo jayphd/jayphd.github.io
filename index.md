@@ -10,8 +10,8 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 <h2> Research Interest: </h2> 
 <ul>
   <li> Mesoscale Dynamics</li>
-  <li> Tropical Convection</li> 
-  <li> South Asian Monsoon </li>
+  <li> Orographic Effects</li> 
+  <li> Tropical Convection </li>
 </ul>
 
 Print media articles on my research: <br>
