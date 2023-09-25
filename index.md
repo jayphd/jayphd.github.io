@@ -8,9 +8,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 
 <p>I did my Ph.D. at the <a href="https://caos.iisc.ac.in/"> Centre for Atmospheric and Oceanic Sciences</a>, Indian Institute of Science, Bangalore. For my Ph.D. thesis, I wrote an <a href="https://jayphd.github.io/tracking/">automated cloud-tracking algorithm </a> to study the organization of deep convection from the INSAT satellite data. With the help of WRF model simulations, I also proposed an orographic blocking mechanism for the extreme rainfall events responsible for the South India floods in 2015. This was the first <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> study</a> to link extreme rainfall over the east coast of India to the Eastern Ghats mountains. </p> 
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
 
   
         <h2> Research Interest: </h2> 
@@ -34,14 +32,6 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
         </ul>
 
     </div>
-
-
-
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      
-    </div>
-  </div>
-</div>
 
 
 <table>
