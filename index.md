@@ -38,13 +38,18 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 
 
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-         Second 
+      
     </div>
   </div>
 </div>
 
 
-
+<table>
+  <tr>
+    <td>column 1</td>
+    <td>column 2</td>
+  </tr>
+</table>
 
 
 
