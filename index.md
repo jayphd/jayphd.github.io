@@ -31,15 +31,6 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
           <li> B.E. (2008), Sardar Patel College of Engineering, Mumbai, India </li>
         </ul>
 
-    </div>
-
-
-<table>
-  <tr>
-    <td>column 1</td>
-    <td>column 2</td>
-  </tr>
-</table>
 
 
 
