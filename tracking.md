@@ -4,7 +4,7 @@ title: ""
 ---
 This MATLAB package extracts depp cloud systems (CSs) from gridded IR images of a geostationary satellite. The tracking is based on the overlap technique (Williams and Houze, 1987) where the continuity of CSs is decided according to the overlapped areas between two frames. 
 
-Code is available on my Github repository: <br> 
+Tracking code and the tracked CSs dataset is available on my Github repository: <br> 
 <a href="https://github.com/jayphd/Track_MCSs/"> https://github.com/jayphd/Track_MCSs/ </a>
 
 1. For the INSAT-3D/3DR raw data, use Grid_data.m for geolocating and gridding the data.
