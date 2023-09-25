@@ -16,7 +16,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 
 
 <p align="center">
-<img src="/assets/nevada.jpg" alt ="" width="800" height="600"> </p>
+<img src="/assets/nevada.jpg" alt ="" width="800" height="500"> </p>
 
      
 Print media articles on my research: <br>
