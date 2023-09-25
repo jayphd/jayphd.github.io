@@ -30,7 +30,18 @@ Print media articles on my research: <br>
 
 
 
+<!-- main container, width = 70% of page, centered -->
+<div id="contentBox" style="margin:0px auto; width:70%">
 
+ <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
+    <div id="column1" style="float:left; margin:0; width:33%;">
+     CONTENT
+    </div>
+
+    <div id="column2" style="float:left; margin:0;width:33%;">
+     CONTENT
+    </div>
+</div
 
 
 
