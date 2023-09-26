@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <p align="center">
-<img src="/assets/Photo.jpg" alt ="" width="300" height="500"><br> 
+<img src="/assets/Photo.png" alt ="" width="400" height="500"><br> 
      
 <p> Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
 at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to understand the structure and evolution of monsoonal storms using high-resolution observations from ships and aircraft. I am also involved in the <a href = "https://efmlab.nd.edu/research/swex/">SWEX</a> project which studies the downslope windstorms over the mountains of southern California. These hot and dry winds cause wildfires in this region. Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>. </p> 
