@@ -16,7 +16,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 
 
 <p align="center">
-<img src="/assets/nevada.jpg" alt ="" width="800" height="500">
+<img src="/assets/nevada.jpg" alt ="" width="800" height="500"><br> 
 Cumulus development over the Washoe Mountains, Nevada, USA (23 December 2015) </p> <br> 
 <br>
      
