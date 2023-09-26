@@ -17,7 +17,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 
 <p align="center">
 <img src="/assets/nevada.jpg" alt ="" width="800" height="500"> </p>
-
+Cumulus development over the Washoe Mountains, Nevada, USA (23 December 2015)
      
 Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
