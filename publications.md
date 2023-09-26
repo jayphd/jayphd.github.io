@@ -4,15 +4,15 @@ title: "Publications"
 ---
 <ins><b>In Preparation:</b></ins> 
 
-<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle Characteristics of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
+<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
 
 
  <ins><b>Peer Reviewed:</b></ins>
 
-<b> Phadtare, J. </b>, <em> et al. </em> (Minor revisions),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
+<b> Phadtare, J. </b>, <em> et al. </em> (Under review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
 
-<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (Accepted). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
+<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
 
 <b> Phadtare, J.</b> 2023. "Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula". <em> Meteorology </em> 2, no. 3: 329-343. DOI: https://doi.org/10.3390/meteorology2030020.
 
