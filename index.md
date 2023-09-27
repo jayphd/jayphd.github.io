@@ -13,6 +13,7 @@ at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working 
 <li> Mesoscale Dynamics</li>
 <li> Orographic Effects</li> 
 <li> Tropical Convection </li>
+<li> Numerical Weather Prediction </li>
 </ul>
 
 
