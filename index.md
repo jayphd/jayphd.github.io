@@ -32,3 +32,5 @@ Print media articles on my research: <br>
 <li> M.Tech. (2012), Indian Institute of Science, Bengaluru, India </li>
 <li> B.E. (2008), Sardar Patel College of Engineering, Mumbai, India </li>
 </ul>
+
+<a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> CV </a>
