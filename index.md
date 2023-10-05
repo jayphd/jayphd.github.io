@@ -2,12 +2,16 @@
 layout: page
 title: ""
 --- 
-<p style="width: 500px;">
-<img src= alt ="" width="300" height="400" style="float: right;" />
- <Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
-at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which I am trying to understand the structure and evolution of monsoonal storms using observations from ships and aircraft. I am also involved in the <a href = "https://efmlab.nd.edu/research/swex/">SWEX</a> project which studies the downslope windstorms over the mountains of Southern California. These hot and dry winds fan the wildfires in this region. Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>.
-  
 
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+      Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
+      at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which        I am trying to understand the structure and evolution of monsoonal storms using observations from ships and aircraft. I am also involved in the <a href =      "https://efmlab.nd.edu/research/swex/">SWEX</a> project which studies the downslope windstorms over the mountains of Southern California. These hot and dry winds fan the     wildfires in this region. Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>.
+  </div>
+</div>
 
 <p>I did my Ph.D. at the <a href="https://caos.iisc.ac.in/"> Centre for Atmospheric and Oceanic Sciences</a>, Indian Institute of Science, Bangalore. For my Ph.D. thesis, I wrote an <a href="https://jayphd.github.io/tracking/">automated cloud-tracking algorithm </a> to study the organization of deep convection from the INSAT satellite data. With the help of WRF model simulations, I also proposed an orographic blocking mechanism for the extreme rainfall events responsible for the <a href="https://en.wikipedia.org/wiki/2015_South_India_floods"> 2015 South India floods </a>. This was the first <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> study</a> to link extreme rainfall over the east coast of India to the Eastern Ghats mountains. </p> 
 
