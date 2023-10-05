@@ -5,7 +5,7 @@ title: ""
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src= "/assets/nevada.jpg" alt="">
+    <img src= "/assets/nevada.jpg" width="800" height="500" alt="">
   </div>
   <div>
     <h2>Some title text</h2>
