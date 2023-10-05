@@ -2,14 +2,36 @@
 layout: page
 title: ""
 --- 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+  
 <div class="row">
   <div class="column">
-    <img src="/assets/Photo.png" alt ="" width="800" height="500">
+    <img src="/assets/Photo.png" alt ="" width="300" height="400">
   </div>
   <div class="column">
-      Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
-      at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which        I am trying to understand the structure and evolution of monsoonal storms using observations from ships and aircraft. I am also involved in the <a href =      "https://efmlab.nd.edu/research/swex/">SWEX</a> project which studies the downslope windstorms over the mountains of Southern California. These hot and dry winds fan the     wildfires in this region. Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>.
+  Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
+  at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am working on the <a href="https://efmlab.nd.edu/research/miso-bob/"> MISO-BOB project</a> in which        I am trying to understand the structure and evolution of monsoonal storms using observations from ships and aircraft. I am also involved in the <a href =      "https://efmlab.nd.edu/research/swex/">SWEX</a> project which studies the downslope windstorms over the mountains of Southern California. These hot and dry winds fan the     wildfires in this region. Previously, I was at the <a href="https://ncas.ac.uk/"> National Centre for Atmospheric Science (NCAS)</a>, University of Leeds where I studied the influence of the Western Ghats on the summer monsoon rainfall over peninsular India from observations and models simulations as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"> IMPROVE project </a>.
   </div>
 </div>
 
