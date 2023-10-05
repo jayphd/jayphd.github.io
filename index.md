@@ -2,6 +2,8 @@
 layout: page
 title: ""
 --- 
+<!DOCTYPE html>
+
 <html>
 <head>
 <style>
