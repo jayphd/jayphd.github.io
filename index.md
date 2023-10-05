@@ -5,7 +5,7 @@ title: ""
 
 <div class="row">
   <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+    <img src="/assets/Photo.png" alt ="" width="800" height="500">
   </div>
   <div class="column">
       Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
