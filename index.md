@@ -7,7 +7,7 @@ title: ""
 <html>
 <head>
 <style>
-* {
+*{
   box-sizing: border-box;
 }
 
