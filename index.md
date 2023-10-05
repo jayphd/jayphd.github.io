@@ -3,7 +3,7 @@ layout: page
 title: ""
 --- 
 
-<img src="/assets/Photo.png" alt ="" width="400" height="300">
+<img src="/assets/Photo.png" alt ="" align="left" width="200px"/>
 some text floating around the image
 
   Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/">Environmetal Fluid Mechanics Laboratory</a>
