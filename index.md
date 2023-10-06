@@ -16,7 +16,7 @@ img{
 </head>
 <body>
   
-<p style="width: 500px;">
+<p style="width: 200px;">
 <img src="/assets/Jayesh.png" style="float: left;" />
 This is some text
 </p> 
