@@ -15,8 +15,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Numerical Weather Prediction </li>
 </ul>
 
-![placeholder](/assets/nevada.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
-
 <p align="center">
 <img src="/assets/nevada.jpg" alt ="" width="800" height="500"><br> 
 Cumulus development over the Washoe Mountains, Nevada, USA (23 December 2015) </p><br> 
