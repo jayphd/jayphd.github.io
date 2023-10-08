@@ -11,7 +11,7 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 100%;
+  max-width: 50%;
   padding: 25px;
 }
 </style>
