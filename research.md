@@ -54,7 +54,7 @@ Phadtare, J. (2018) Role of Eastern Ghats Orography and Cold Pool in an Extreme 
   
 <p align="center">
 <i> Comparison of orographic blocking in radiosonde observations and 12-km, 4-km, and 1.33-km model simulations </i> <br>
-<img src="/assets/wrf_fr.png" alt="" width="850" height="750">
+<img src="/assets/wrf_fr.png" alt="" width="850" height="700">
 </p>
 
 Ref: <br>
