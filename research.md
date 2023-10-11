@@ -66,7 +66,7 @@ Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022
 
 <i> Automated tracking of deep cloud systems </i>
 <p align="center">
-<img src="/assets/large_cs_formation.jpeg" width="850" height="500">	
+<img src="/assets/large_cs_formation.jpeg" width="850" height="700">	
 </p>
 
 Ref:
