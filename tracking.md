@@ -18,7 +18,7 @@ Tracking dataset columns:
 ID, Day, Month, Hour, Minutes, lat, lon, Area, ImageNumber, SplitParentID, MergeParentID, MergeChldArea, MinTemperature, CoreArea, AvgTemperature
 
 <p align="center">
-<img src="/assets/Tracking.gif" width="850" height="500">	
+<img src="/assets/Tracking.gif" width="1000" height="600">	
 </p>
 
 
