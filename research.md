@@ -66,9 +66,9 @@ Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022
 
 <i> Automated tracking of deep cloud systems </i>
 <p align="center">
-<img src="/assets/Tracking.gif" width="850" height="500">	
+<img src="/assets/large_cs_formation.jpeg" width="850" height="500">	
 </p>
 
 Ref:
-Phadtare, J., and Bhat, G.S., 2019. Characteristics of deep cloud systems under weak and strong synoptic forcing during Indian summer monsoon season, Mon. Wea. Rev. , 147(10), pp.3741-3758.
+Phadtare, J., and Bhat, G.S., 2019. Characteristics of deep cloud systems under weak and strong synoptic forcing during Indian summer monsoon season, Mon. Wea. Rev., 147(10), pp.3741-3758.
   
