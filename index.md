@@ -36,7 +36,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 <p align="center">
-<img src="assets/nevada.jpg" alt ="" width="800" height="500"><br> 
+<img src="assets/nevada.jpg" alt ="" width="800" height="500">
 Cumulus development over the Washoe Mountains, Nevada, USA (23 December 2015) </p><br> 
      
 Print media articles on my research: <br>
