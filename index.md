@@ -12,7 +12,9 @@ img{
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
-  padding: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+
 }
 </style>
 </head>
