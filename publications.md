@@ -2,12 +2,9 @@
 layout: page
 title: "Publications"
 ---
-<ins><b>In Preparation:</b></ins> 
+<ins><b>Peer Reviewed:</b></ins>
 
-<b> Phadtare, J. </b>, Bhat, G.S., Life Cycle of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
-
-
- <ins><b>Peer Reviewed:</b></ins>
+<b> Phadtare, J. </b>, Bhat, G.S. (Submitted), Life Cycle of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
 
 <b> Phadtare, J. </b>, <em> et al. </em> (Under review),  Aircraft Observations in a Tropical Supercluster over the Equatorial Indian Ocean during MISO-BOB Field Campaign, <em> Sci. rep. </em><br> 
 
