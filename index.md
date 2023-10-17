@@ -33,7 +33,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <ul>
 <li> Mesoscale Dynamics</li>
 <li> Orographic Effects</li> 
-<li> Tropical Convection </li>
+<li> Air-Sea Interaction </li>
 <li> Numerical Weather Prediction </li>
 </ul>
 
