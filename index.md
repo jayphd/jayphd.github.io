@@ -46,7 +46,7 @@ Print media articles on my research: <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
 
-<h2>Education: <a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> Curriculum vitae </a></h2>
+<h2>Education:</h2> <a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> Curriculum vitae </a>
 <ul>
 <li> Ph.D. (2020), Indian Institute of Science, Bengaluru, India </li>
 <li> M.Tech. (2012), Indian Institute of Science, Bengaluru, India </li>
