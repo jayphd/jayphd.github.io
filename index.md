@@ -38,7 +38,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 <p align="center">
-<img src="assets/IAF.jpg" alt ="" width="800" height="500"><br> 
+<img src="assets/IAF.jpg" alt ="" width="800" height="450"><br> 
 The upstream orographic blocking stagnated the rainstorm over Chennai during 30 Nov-2 Dec 2015  <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref) </a> </p><br> 
     
 Print media articles on my research: <br>
@@ -46,14 +46,13 @@ Print media articles on my research: <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
 
-<h2>Education:</h2>
+<h2>Education: <a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> Curriculum vitae </a></h2>
 <ul>
 <li> Ph.D. (2020), Indian Institute of Science, Bengaluru, India </li>
 <li> M.Tech. (2012), Indian Institute of Science, Bengaluru, India </li>
 <li> B.E. (2008), Sardar Patel College of Engineering, Mumbai, India </li>
 </ul>
 
-<a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> Curriculum vitae </a>
 
 <b> Spreading education: Notebook distribution in Kolar, Karnataka (courtesy: Notebook Drive, IISc) </b> <br>
 <p align="center">
