@@ -39,7 +39,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 <p align="center">
-<img src="assets/IAF.jpg" alt ="" width="800" height="450"><br> 
+<img src="assets/IAF.jpg" alt ="" width="800" height="400"><br> 
 The upstream orographic blocking stagnated the rainstorm over Chennai during 30 Nov-2 Dec 2015  <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref) </a> </p><br> 
     
 Print media articles on my research: <br>
