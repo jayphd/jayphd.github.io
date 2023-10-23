@@ -57,4 +57,4 @@ Print media articles on my research: <br>
 
 
 <p align="center">
-<img src="assets/NVD.jpg" alt ="" width="800" height="500"><br> 
+<img src="assets/NBD.jpg" alt ="" width="800" height="500"><br> 
