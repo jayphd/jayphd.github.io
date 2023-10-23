@@ -55,6 +55,6 @@ Print media articles on my research: <br>
 </ul>
 
 
-<b> Spreading education: Notebook distribution in Kolar, Karnataka (courtesy: Notebook Drive, IISc) </b> <br>
+<b> Spreading education:</b> Notebook distribution in Kolar, Karnataka (courtesy: Notebook Drive, IISc) <br>
 <p align="center">
 <img src="assets/NBD.jpg" alt ="" width="800" height="500"><br> 
