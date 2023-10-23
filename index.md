@@ -14,6 +14,7 @@ img{
   max-width: 100%;
   padding-left: 25px;
   padding-right: 25px;
+  padding-bottom: 5px;
 
 }
 </style>
