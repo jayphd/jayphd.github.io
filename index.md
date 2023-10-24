@@ -40,7 +40,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p align="center">
 <img src="assets/IAF.jpg" alt ="" width="800" height="400"><br> 
-The upstream orographic blocking stagnated the rainstorm over Chennai during 30 Nov-2 Dec 2015  <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref) </a> </p><br> 
+Indudated Chennai photographed by the Indian Air Force Rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai during this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> </p><br> 
     
 Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
