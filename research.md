@@ -46,7 +46,7 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 </p>
 <p align="center">
 <i> Tilting of cyclonic vortex against orography.</i> <br>
-<img src="/assets/IAF.png" alt="" width="850" height="750">
+<img src="/assets/IAF.png" alt="" width="800" height="400">
   
 </p>
 
