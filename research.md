@@ -36,18 +36,17 @@ Phadtare, J., H.S.J. Fernando, R. Krishnamurthy, J. M. Pérez Valentín, K. McLa
 <h2> Influence of Underlying Orography on Cyclonic Systems </h2>
 The east coast of India is prone to extreme floods during the winter monsoon, e.g., <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods</a>. The influence of the Western Ghats on west coast rainfall has been known for a very long time. However, the role of the Eastern Ghats on East Coast rainfall was recently discovered in a study by <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml"></a> Phadtare (2018). Even though the Eastern Ghats lie about 200 km inland from the coast, the orographic effect is conveyed through the cold pool, a 'thermodynamic mountain'. In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region tend to arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause catastrophic flooding for several days. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats orography range (Phadtare, 2018). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the vertical propagation of the orographic effect. <br>
 
+</p>
+<p align="center">
+<i>Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai, causing this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> </p><br> .</i> <br>
+<img src="/assets/IAF.jpg" alt="" width="800" height="400">
 <p align="center">
 <i> Piling up of cold pool (a 'thermodynamic mountain') against the orography.</i> <br>
 <img src="/assets/Cold_pool.png" alt="" width="500" height="300">
 </p>
 <p align="center">
 <i> Tilting of cyclonic vortex against orography.</i> <br>
-<img src="/assets/vortex_tilt.png" alt="" width="850" height="750">
-</p>
-<p align="center">
-<i>Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai, causing this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> </p><br> .</i> <br>
-<img src="/assets/IAF.jpg" alt="" width="800" height="400">
-  
+<img src="/assets/vortex_tilt.png" alt="" width="850" height="750"> 
 </p>
 
 Ref:<br>
