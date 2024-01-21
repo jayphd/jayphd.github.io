@@ -41,7 +41,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 <p align="center">
-<img src="assets/IAF.jpg" alt ="" width="800" height="400"><br> 
+<img src="assets/nevada.jpg" alt ="" width="800" height="400"><br> 
 Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai, causing this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> </p><br> 
     
 Print media articles on my research: <br>
