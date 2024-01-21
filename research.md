@@ -38,12 +38,11 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 
 </p>
 <p align="center">
-<i> Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai, causing this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> </p><br></i> 
+<i> Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai, causing this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i> 
 <img src="/assets/IAF.jpg" alt="" width="800" height="400">
 <p align="center">
 <i> Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats sorography.</i> <br>
 <img src="/assets/Cold_pool.png" alt="" width="500" height="300">
-</p>
 <p align="center">
 <i> Tilting of cyclonic vortex against orography.</i> <br>
 <img src="/assets/vortex_tilt.png" alt="" width="850" height="750"> 
