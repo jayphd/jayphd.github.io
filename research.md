@@ -44,6 +44,11 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 <i> Tilting of cyclonic vortex against orography.</i> <br>
 <img src="/assets/vortex_tilt.png" alt="" width="850" height="750">
 </p>
+<p align="center">
+<i> Tilting of cyclonic vortex against orography.</i> <br>
+<img src="/assets/vortex_tilt.png" alt="" width="850" height="750">
+  
+</p>
 
 Ref:<br>
 Phadtare, J. (under review) Influence of Underlying Topography on post-monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
