@@ -65,4 +65,4 @@ Print media articles on my research: <br>
 
 <h2>Reviewer Service:</h2> 
 <ul>
-<li> Journal of Climate, <i American Meteorological Society </i> </li>
+<li> Journal of Climate, <em American Meteorological Society </em> </li>
