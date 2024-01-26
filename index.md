@@ -65,9 +65,9 @@ Print media articles on my research: <br>
 
 <h2>Reviewer Service:</h2> 
 <ul>
-<li> <em> Journal of Climate </em>, American Meteorological Society  </li>
-<li> <em> Environmental Fluid Mechanics </em>, Springer Science  </li>
-<li> <em> Meteorological Applications </em>, Royal Meteorological Society. </li>
-<li> <em> Earth and Space Science </em>, American Geophysical Union.  </li>
+<li> <em> Journal of Climate</em>, American Meteorological Society  </li>
+<li> <em> Environmental Fluid Mechanics</em>, Springer Science  </li>
+<li> <em> Meteorological Applications</em>, Royal Meteorological Society. </li>
+<li> <em> Earth and Space Science</em>, American Geophysical Union.  </li>
 
 
