@@ -63,6 +63,6 @@ Print media articles on my research: <br>
 
 <a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> Curriculum vitae </a>
 
-<h2>Reviwer:</h2> 
+<h2>Reviewer Service:</h2> 
 <ul>
-<li> Journal of Climate, American Meteorological Society </li>
+<li> Journal of Climate, <i American Meteorological Society </i> </li>
