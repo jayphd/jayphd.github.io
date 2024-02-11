@@ -8,7 +8,7 @@ title: "Publications"
 
 <b> Phadtare, J. </b>, Fernando, H.J.S., Black, G. et al. Aircraft observations in a tropical supercluster over the equatorial Indian Ocean during MISO-BOB field campaign. Sci Rep 14, 2182 (2024). https://doi.org/10.1038/s41598-024-51527-4
 
-<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em>
+<b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em> https://doi.org/10.1002/qj.4550
 
 <b> Phadtare, J.</b> 2023. "Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula". <em> Meteorology </em> 2, no. 3: 329-343. DOI: https://doi.org/10.3390/meteorology2030020.
 
