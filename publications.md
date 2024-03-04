@@ -6,7 +6,7 @@ title: "Publications"
 
 <b> Phadtare, J. </b>, Bhat, G.S. (Submitted), Life Cycle of Deep Cloud Systems of Indian Summer Monsoon using High Temporal Resolution Satellite Data. <br>
 
-<b> Phadtare, J. </b>, Fernando, H.J.S., Black, G. et al. Aircraft observations in a tropical supercluster over the equatorial Indian Ocean during MISO-BOB field campaign. Sci Rep 14, 2182 (2024). <a> https://doi.org/10.1038/s41598-024-51527-4 </a>
+<b> Phadtare, J. </b>, Fernando, H.J.S., Black, G. et al. Aircraft observations in a tropical supercluster over the equatorial Indian Ocean during MISO-BOB field campaign. Sci Rep 14, 2182 (2024). <a https://doi.org/10.1038/s41598-024-51527-4 </a>
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. </em> <a> https://doi.org/10.1002/qj.4550 </a>
 
