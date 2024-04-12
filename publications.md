@@ -10,7 +10,7 @@ title: "Publications"
 
 <b>Phadtare, J.</b>, Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns, H. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations. <em> Q. J. Roy. Meteor. Soc. DOI: </em> <a href ="https://doi.org/10.1002/qj.4550"> [Link] </a>
 
-<b> Phadtare, J.</b> 2023. "Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula". <em> Meteorology </em> 2, no. 3: 329-343. DOI: <a href="https://doi.org/10.3390/meteorology2030020"> [Link] </a>.
+<b> Phadtare, J.</b> 2023. Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>, 2, no. 3: 329-343. DOI: <a href="https://doi.org/10.3390/meteorology2030020"> [Link] </a>.
 
 Pérez Valentín, J.M., Fernando, H.J., Bhat, G.S., Wijesekera, H.W., <b>Phadtare, J.</b> and Gonzalez, E., 2022. On Synergy between Convective Equatorial Signals and Monsoon Intraseasonal Oscillations in the Bay of Bengal. <em> Mon. Wea. Rev. </em>. DOI: <a href= "https://doi.org/10.1175/MWR-D-22-0076.1"> [Link] </a>
 
