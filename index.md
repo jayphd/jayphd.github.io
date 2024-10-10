@@ -20,7 +20,9 @@ img{
 </style>
 </head>
 <body>
-
+<p align="center">
+<img src="assets/TGT_noaa.jpg" alt ="" width="700" height="450"> <br>
+Onboard the Thomas G Thompson, somewhere in the Indian Ocean. </p><br> 
 
 <p>
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
@@ -39,10 +41,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Mesocale Dynamics </li>
 <li> Numerical Weather Prediction </li>
 </ul>
-
-<p align="center">
-<img src="assets/TGT_noaa.jpg" alt ="" width="700" height="450"> <br>
-Onboard the Thomas G Thompson, somewhere in the Indian Ocean. </p><br> 
     
 Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
