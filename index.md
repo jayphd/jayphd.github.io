@@ -21,7 +21,7 @@ img{
 </head>
 <body>
 <p align="center">
-<img src="assets/TGT_noaa.jpg" alt ="" width="700" height="450"> <br>
+<img src="assets/TGT_all.jpg" alt ="" width="900" height="450"> <br>
 Onboard the Thomas G Thompson, somewhere in the Indian Ocean. </p><br> 
 
 <p>
