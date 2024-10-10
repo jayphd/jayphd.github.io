@@ -34,9 +34,9 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <h2> Research Interest: </h2> 
 <ul>
-<li> Mesoscale Dynamics</li>
+<li> Tropical Dynamics</li>
 <li> Orographic Effects</li> 
-<li> Tropical Convection </li>
+<li>  Mesocale Dynamics </li>
 <li> Numerical Weather Prediction </li>
 </ul>
 
