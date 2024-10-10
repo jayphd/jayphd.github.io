@@ -42,7 +42,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p align="center">
 <img src="assets/nevada.jpg" alt ="" width="800" height="450"> <br>
-Development of clouds over the Washoe mountains, Nevada, USA. </p><br> 
+Cloud build up over the Washoe mountains, Nevada, USA. </p><br> 
     
 Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
