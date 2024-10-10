@@ -41,7 +41,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 <p align="center">
-<img src="assets/TGT_noaa.HEIC" alt ="" width="800" height="450"> <br>
+<img src="assets/TGT_noaa.jpg" alt ="" width="800" height="450"> <br>
 Cloud build up over the Washoe mountains, Nevada, USA. </p><br> 
     
 Print media articles on my research: <br>
