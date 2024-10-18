@@ -33,6 +33,8 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p>I did my Ph.D. at the <a href="https://caos.iisc.ac.in/"> Centre for Atmospheric and Oceanic Sciences</a>, Indian Institute of Science, Bangalore. For my Ph.D. thesis, I wrote an <a href="https://jayphd.github.io/tracking/">automated cloud-tracking algorithm </a> to study the organization of deep convection from the INSAT satellite data. With the help of WRF model simulations, I also proposed an orographic blocking mechanism for the extreme rainfall events responsible for the <a href="https://en.wikipedia.org/wiki/2015_South_India_floods"> 2015 South India floods</a>. This was the first <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> study</a> to link extreme rainfall over the east coast of India to the Eastern Ghats mountains. </p> 
 
+<p>
+{% include smallplayer.html id=page.wWUBCKP3_20 %}
 
 <h2> Research Interest: </h2> 
 <ul>
@@ -40,7 +42,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Orographic Effects</li> 
 <li> Mesocale Dynamics </li>
 <li> Numerical Weather Prediction </li>
-</ul>
+</ul> </p>
     
 Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
