@@ -5,7 +5,6 @@ title: "Presentations"
 
 <b> <ins> Seminar talks: </ins> </b> <br>
 
-<p style="color:blue;">The dynamics of quasi-stationary cyclonic systems</p>
 {% include youtubePlayer.html id=page.wWUBCKP3_20 %}
 
 
