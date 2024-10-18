@@ -2,15 +2,11 @@
 layout: page
 title: "Presentations"
 ---
----
-youtubeId: wWUBCKP3_20 
----
 
 <b> <ins> Seminar talks: </ins> </b> <br>
 
 
-
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.wWUBCKP3_20 %}
 
 </body>
 </html>
