@@ -2,11 +2,15 @@
 layout: page
 title: "Presentations"
 ---
+---
+youtubeId: wWUBCKP3_20 
+---
+
 <b> <ins> Seminar talks: </ins> </b> <br>
 
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/wWUBCKP3_20"> </iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
 
 </body>
 </html>
