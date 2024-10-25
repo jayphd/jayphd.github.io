@@ -36,13 +36,13 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <p>
 {% include smallplayer.html id=page.wWUBCKP3_20 %}
 
-<h2> Research Interest: </h2> 
+<h2> Research Interest: </h2>
 <ul>
 <li> Tropical Dynamics</li>
 <li> Orographic Effects</li> 
 <li> Mesocale Dynamics </li>
 <li> Numerical Weather Prediction </li>
-</ul> </p>
+</ul> </p> <br>
 
 <p>My research is often motivated by societal needs. I am also curious to understand the fundamental working principles of our weather and climate. Therefore, my work has been indeed interdisciplinary and combined the 'Engineering' and 'Science' perspectives.</p>
 Print media articles on my research: <br>
