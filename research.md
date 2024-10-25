@@ -14,7 +14,10 @@ img {
 </style>
 </head>
 <body>
- 
+ <p>My research is often motivated by societal needs. I am also curious to understand the fundamental working principles of our weather and climate. Therefore, my work has been indeed interdisciplinary and combined the 'Engineering' and 'Science' perspectives.</p>
+Print media articles on my research: <br>
+<a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
+<a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
 <h2> Reconnaissance of a Tropical Supercluster with Hurricane Hunter Aircraft </h2> 
 At the University of Notre Dame, my research is funded through the MISO-BOB project sponsored by the US Office of Naval Research (ONR). The overarching goal of MISO-BOB is to understand the interaction between monsoonal storms and the ocean. To this end, in situ field observations were collected using ships, buoys, aircraft, and weather balloons (radiosondes) over the Indian Ocean and the Bay of Bengal. The hurricane hunter aircraft (Hercules WC130J) of the US Air Force was used to collect observations from the storms during June 2018. The aircraft flew through a tropical cloud supercluster over the Indian Ocean and gathered data from the onboard instruments and dorpsondes at different locations. Analysis of this unique dataset revealed the internal structure of the supercluster, its cold pool, melting level, and similarities between the convectively coupled Kelvin waves. <br>
