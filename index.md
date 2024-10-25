@@ -44,12 +44,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Numerical Weather Prediction </li>
 </ul> </p> <br>
 
-<p>My research is often motivated by societal needs. I am also curious to understand the fundamental working principles of our weather and climate. Therefore, my work has been indeed interdisciplinary and combined the 'Engineering' and 'Science' perspectives.</p>
-Print media articles on my research: <br>
-<a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
-<a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
-
-
 <h2>Education:</h2> 
 <ul>
 <li> Ph.D. (2020), Indian Institute of Science, Bengaluru, India </li>
