@@ -62,8 +62,8 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <ul>
 <li> <em> Journal of Climate</em>, American Meteorological Society  </li>
 <li> <em> Scientific Reports</em>, Nature Portfolio </li>
-<li> <em> Environmental Fluid Mechanics</em>, Springer Science  </li>
 <li> <em> Meteorological Applications</em>, Royal Meteorological Society. </li>
 <li> <em> Earth and Space Science</em>, American Geophysical Union.  </li>
+<li> <em> Environmental Fluid Mechanics</em>, Springer Science  </li>
 
 
