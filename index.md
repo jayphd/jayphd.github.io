@@ -52,7 +52,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 
-<b> Spreading education:</b> Radiosonde launch with students at Notre Dame <br>
+<b> Spreading education:</b> Radiosonde launch with students at Notre Dame (1500 UTC 13 November 2024) <br>
 <p align="center">
 <img src="assets/ND_launch.jpg" alt ="" width="600" height="500"><br> 
 
