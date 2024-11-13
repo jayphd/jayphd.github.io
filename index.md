@@ -54,7 +54,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <b> Spreading education:</b> Radiosonde launch with students at Notre Dame <br>
 <p align="center">
-<img src="assets/ND_launch.jpg" alt ="" width="800" height="500"><br> 
+<img src="assets/ND_launch.jpg" alt ="" width="600" height="500"><br> 
 
 <a href="https://drive.google.com/file/d/1HeDbnx6wraPzAjtqf10sOUNfcJlXwvdo/view?usp=drive_link"> Curriculum vitae </a>
 
