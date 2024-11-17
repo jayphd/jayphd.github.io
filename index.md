@@ -54,7 +54,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <b> Spreading education:</b> Note book distribution as a part of NoteBook Drive initiative of Indian Institute of Science <br>
 <p align="center">
-<img src="assets/NBD.jpg" alt ="" width="600" height="500"><br> 
+<img src="assets/NBD.jpg" alt ="" width="800" height="500"><br> 
 
 <a href="https://drive.google.com/file/d/1PrIC7LuVvAtFcpC9fobn1e6DT1FflbBB/view?usp=sharing"> Curriculum vitae </a>
 
