@@ -20,8 +20,7 @@ img{
 </style>
 </head>
 <body>
-<p align="center">
-<img src="assets/TGT_all.jpg" alt ="" width="900" height="300"> <br> </p><br> 
+<img src="assets/TGT_all.jpg" alt ="" width="900" height="300"> <br> 
 
 <p>
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
