@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Research, file: "research.md"}
   - {title: Publications, file: "publications.md"}
   - {title: Presentations, file: "presentations.md"}
+  - {title: Teaching, file:"teaching.md"}
   - {title: Cloud Tracking Algorithm, file: "tracking.md"}
   - {title: Blog, url: "https://jayeshphadtare.wordpress.com/author/jayaphd/"}
 
