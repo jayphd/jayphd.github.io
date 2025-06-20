@@ -53,6 +53,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <p align="center">
 <img src="assets/NBD.jpg" alt ="" width="700" height="450"><br> 
 
-<a href="https://drive.google.com/file/d/1AZ7HNbC1d5vm25l4fRR_lTWXE9j9K5V5/view?usp=sharing"> Curriculum vitae </a>
+<a href="https://drive.google.com/file/d/1WG79cNMxDSy4oyfMUX1WxGfXBd_YGfZG/view?usp=drive_link"> Curriculum vitae </a>
 
 
