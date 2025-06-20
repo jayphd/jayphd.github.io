@@ -4,7 +4,7 @@ title: "Publications"
 ---
 <ins><b>Peer Reviewed:</b></ins>
 
-<b> Phadtare, J. </b>, Fernando, H.S.J. (Under revision),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett.<br>
+<b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett.<br> </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
 
 <b> Phadtare, J. </b>, Bhat, G.S. (Under revision), Life cycle of deep cloud systems of Indian summer monsoon using high temporal resolution satellite data.  <em> Mteorol. Atmos. Phys. </em> <a href="https://doi.org/10.21203/rs.3.rs-3835390/v1"> [Link] </a> <br>
 
