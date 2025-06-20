@@ -37,7 +37,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <ul>
 <li> Tropical Dynamics</li>
 <li> Atmospheric Boundary Layer</li> 
-<li> Mesocale Dynamics </li>
 <li> Numerical Weather Prediction </li>
 </ul> </p> <br>
 
