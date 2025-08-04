@@ -35,7 +35,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <h2> Research Interest: </h2>
 <ul>
-<li> Storm Dynamics</li>
+<li> Storms and Mountains! </li>
 <li> Numerical Weather Prediction </li>
 </ul> </p> <br>
 
