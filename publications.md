@@ -4,11 +4,11 @@ title: "Publications"
 ---
 <ins><b>Peer Reviewed:</b></ins>
 
-<b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
-
 <b> Phadtare, J. </b>, Bhat, G.S. (Under revision), Life cycle of deep cloud systems of Indian summer monsoon using high temporal resolution satellite data.  <em> Mteorol. Atmos. Phys. </em> <a href="https://doi.org/10.21203/rs.3.rs-3835390/v1"> [Link] </a> <br>
 
-Mireles, E.G., <b> Phadtare, J. </b>, Valentín, J.P. et al. Extreme precipitation observations during the 2019 MISO-BOB field campaign. <em> Clim. Dyn. </em> 63, 202 (2025) <a href="https://doi.org/10.1007/s00382-025-07690-z"> [Link] </a> <br>
+<b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
+
+Mireles, E.G., <b> Phadtare, J. </b>, Valentín, J.P. et al.(2025). Extreme precipitation observations during the 2019 MISO-BOB field campaign. <em> Clim. Dyn. </em> 63, 202 <a href="https://doi.org/10.1007/s00382-025-07690-z"> [Link] </a> <br>
 
 
 <b> Phadtare, J. </b>, Fernando, H.J.S., Black, G. et al. Aircraft observations in a tropical supercluster over the equatorial Indian Ocean during MISO-BOB field campaign. <em> Sci Rep </em> , 14, 2182 (2024). DOI: <a href ="https://doi.org/10.1038/s41598-024-51527-4"> [Link] </a>
