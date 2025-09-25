@@ -34,7 +34,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <h2> Research Interest: </h2>
 <ul>
-<li> Large-scale dynamics of storms </li>
+<li> Mesoscale dynamics </li>
 <li> Atmospheric boundary layer </li>
 <li> Numerical Weather Prediction </li>
 </ul> </p> <br>
