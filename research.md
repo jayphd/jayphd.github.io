@@ -51,8 +51,8 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 </p>
 
 Ref:<br>
-Phadtare, J. (under review) Influence of Underlying Topography on post-monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
-Phadtare, J. (2018) Role of Eastern Ghats Orography and Cold Pool in an Extreme Rainfall Event over Chennai on 1 December 2015.<em> Mon. Wea. Rev. </em>, 146 (4). pp. 943-965.
+Phadtare, J. (2023). Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
+Phadtare, J. (2018). Role of Eastern Ghats Orography and Cold Pool in an Extreme Rainfall Event over Chennai on 1 December 2015.<em> Mon. Wea. Rev. </em>, 146 (4). pp. 943-965.
 
 
 <h2> Organization and Life Cycle of Deep Cloud Systems in the Indian Summer Monsoon </h2>
