@@ -24,7 +24,7 @@ At the University of Notre Dame, my research is funded through the US Office of 
 
 <p align="center">
  <i> Mean temperature of the global ocean in May 2024 </i>  <br>
-     <img src="/assets/" alt ="" width="800" height="400"> </p>
+     <img src="/assets/sst_may2024.png" alt ="" width="800" height="400"> </p>
 
 
 
