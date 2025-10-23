@@ -19,7 +19,7 @@ Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
-<h2> Build up of marine heat </h2> 
+<h2> Build up of sea surface temperature </h2> 
 At the University of Notre Dame, my research is funded through the US Office of Naval Research (ONR). The overarching goal of my research is to understand the warming of the Indian Ocean during the premonsoon season. To this end, in situ field observations of the atmosphere and ocean were collected using shipboard instruments, buoys, and weather balloons (radiosondes) over the Indian Ocean and the Bay of Bengal. <br>
 
 <p align="center">
