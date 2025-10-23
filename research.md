@@ -45,7 +45,7 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 <p align="center">
 <i> (left) Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. (right) Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats orography stagnated the rainstorm over Chennai <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i> 
 <img src="/assets/IAF.jpg" alt="" width="400" height="300">
-<img src="/assets/Cold_pool.png" alt="" width="500" height="300">
+<img src="/assets/Cold_pool.png" alt="" width="400" height="300">
 <p align="center">
 <i> .</i> <br>
 
