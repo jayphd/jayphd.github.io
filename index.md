@@ -31,6 +31,8 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <p>
 {% include smallplayer.html id=page.wWUBCKP3_20 %}
 
+<img src="assets/NandiHill.MOV" alt ="" width="900" height="300"> <br> 
+
 <h2> Research Interest: </h2>
 <ul>
 <li> Mesoscale dynamics </li>
