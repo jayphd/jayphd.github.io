@@ -15,7 +15,7 @@ img {
 </head>
 <body>
  <p>My research is often motivated by societal needs to cope with climate vagaries. I am also curious to understand the fundamental working principles of our weather and climate. Therefore, my work has indeed been interdisciplinary and melded the 'Engineering' and 'Science' perspectives.</p>
-Print media articles on my research: <br>
+Print media articles on my research: <br> 
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
@@ -43,7 +43,7 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 
 <p>
 <p align="center">
-<i> (left) Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. (right) Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats orography stagnated the rainstorm over Chennai <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i> 
+<i> (left) Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. (right) Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats orography stagnated the rainstorm over Chennai <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i>  \\
 <img src="/assets/IAF.jpg" alt="" width="400" height="300">
 <img src="/assets/Cold_pool.png" alt="" width="400" height="300">
 <p align="center">
