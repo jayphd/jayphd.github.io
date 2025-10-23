@@ -20,7 +20,6 @@ img{
 </style>
 </head>
 <body>
-<img src="assets/TGT_all.jpg" alt ="" width="900" height="300"> <br> 
 
 <p>
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
