@@ -24,7 +24,7 @@ At the University of Notre Dame, my research is funded through the US Office of 
 
 <p align="center">
  <i> Mean temperature of the global ocean in May 2024 </i>  <br>
-     <img src="/assets/sst_may2024.png" alt ="" width="800" height="400"> </p>
+     <img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
 
 <h2> Modelling Rainfall over the Western Ghats </h2>
   <p>The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
@@ -44,7 +44,7 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 <p>
 <p align="center">
 <i> Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. The upstream orographic blocking stagnated the rainstorm over Chennai, causing this flood <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i> 
-<img src="/assets/IAF.jpg" alt="" width="800" height="400">
+<img src="/assets/IAF.jpg" alt="" width="500" height="300">
 <p align="center">
 <i> Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats sorography.</i> <br>
 <img src="/assets/Cold_pool.png" alt="" width="500" height="300">
