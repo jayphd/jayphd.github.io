@@ -64,23 +64,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
     }
 </style>
 
-<div>
-    <h2>Research Interest:</h2>
-    <ul>
-        <li>Mesoscale dynamics</li>
-        <li>Atmospheric boundary layer</li>
-        <li>Numerical Weather Prediction</li>
-    </ul>
-    
-    <div class="video-container">
-        <video width="800" height="300" autoplay muted loop controls>
-            <source src="assets/NandiHill.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <div class="caption-top">Fog rolling over Nandi Hills, India</div>
-    </div>
-</div>
-
 <h2>Education:</h2> 
 <ul>
 <li> Ph.D. (2020), Indian Institute of Science, Bengaluru, India </li>
