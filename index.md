@@ -38,7 +38,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul> <br>
 <video width="800" height="300" autoplay muted loop controls>
         <source src="assets/NandiHill.mp4" type="video/mp4">
-        <track src="NandiHill.vtt" kind="captions" srclang="en" label="English" default>
+        <track src="assets/NandiHill.vtt" kind="captions" srclang="en" label="English" default>
         Your browser does not support the video tag.
 </video> </p>
 
