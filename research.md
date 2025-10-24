@@ -22,7 +22,7 @@ img {
     <script>
     MathJax = {
         chtml: {
-            scale: 1.2,  // Increase to 1.2 (120% of default)
+            scale: 1.1,  // Increase to 1.2 (120% of default)
             minScale: 0.5,
             mtextInheritFont: true
         },
@@ -53,7 +53,7 @@ Our analysis suggests that the topography and the capping inversion over the mar
 <p align="center"><img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
-In midlatitudes, where the Coriolis parameter (\(f\))
+In midlatitudes, where the Coriolis parameter (\(f\)) is greater than the frequency of the diurnal cycle (\(
 
 <h2> Previous </h2> 
 <h2> Modelling Rainfall over the Western Ghats </h2>
