@@ -43,8 +43,7 @@ The east coast of India is prone to extreme floods during the winter monsoon, e.
 
 <p>
 <p align="center">
-<i> (left) Inundation of Chennai area photographed by the Indian Air Force rescue team on 2 December 2015. (right) Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats orography stagnated the rainstorm over Chennai <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i>  \\
-<img src="/assets/IAF.jpg" alt="" width="400" height="300">
+Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats orography stagnated the rainstorm over Chennai <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i>  \\
 <img src="/assets/Cold_pool.png" alt="" width="400" height="300">
 <p align="center">
 <i> .</i> <br>
@@ -59,11 +58,7 @@ Phadtare, J. (2018). Role of Eastern Ghats Orography and Cold Pool in an Extreme
 <h2> Organization and Life Cycle of Deep Cloud Systems in the Indian Summer Monsoon </h2>
   <p> Representation of clouds in the general circulation models is one of the biggest challenges for the atmospheric science community.  Simultaneously resolving  the full spectrum of the involved scales is computationally infeasible. Simulations from the cloud-resolving models (CRM) have shown some promising results recently. However, the problem is not just limited to computational power; our understanding of the physical processes in clouds is plagued by uncertainties. Therefore, there is a need to study real-world cloud processes and set a benchmark for CRMs.  The high-resolution data from the geostationary satellites is useful for this purpose.  During my PhD, I studied the life cycle of deep clouds of the Indian summer monsoon using INSAT-series satellite data. Special focus was on studying the cloud organization with and without the synoptic-scale forcing. An automated cloud tracking code was written for this purpose. Some of the questions addressed in this study are the following: Is there a systematic organization of MCSs within the monsoon depressions? In what aspects do the MCSs differ when the synoptic-scale forcing is strong and weak? Does the size spectrum of MCSs differ in different climatic conditions, e.g., ENSO?</p>
 
-<p align="center">
-<i> Size of deep cloud systems in (a) June, (b) July, (c) August, and (d) September. </i>
-<img src="/assets/large_cs_formation.jpeg" width="850" height="700">	
-</p>
 
 Ref:
-Phadtare, J., and Bhat, G.S., 2019. Characteristics of deep cloud systems under weak and strong synoptic forcing during Indian summer monsoon season, Mon. Wea. Rev., 147(10), pp.3741-3758.
+Phadtare, J., and Bhat, G.S., 2019. Characteristics of deep cloud systems under weak and strong synoptic forcing during the Indian summer monsoon season, Mon. Wea. Rev., 147(10), pp.3741-3758.
   
