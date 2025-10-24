@@ -28,7 +28,7 @@ img {
     <script>
     MathJax = {
         chtml: {
-            scale: 1.2,  // Increase to 1.2 (120% of default)
+            scale: 1.25,  // Increase to 1.2 (120% of default)
             minScale: 0.5,
             mtextInheritFont: true
         },
