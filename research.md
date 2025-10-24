@@ -19,13 +19,14 @@ Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
-<h2> Current topics </h2> 
+<h2> Current </h2> 
 <h2> Warming of the northern Indian Ocean</h2> 
 My research at the University of Notre Dame is funded by the US Office of Naval Research (ONR). The overarching goal of this research is to understand the warming of the Indian Ocean during the premonsoon season. During this time of the year, the Indian Ocean contains the warmest water body on our planet and profoundly affects the climate by energising monsoon winds and tropical cyclones in some years. The role of atmospheric and ocean processes in warming up the Indian Ocean rapidly is not well understood. To this end, field observations of the atmosphere and ocean were collected during May-June 2024 using shipboard instruments, buoys, and weather balloons (radiosondes) over the Indian Ocean and the Bay of Bengal. Quantities like winds, cloud cover, radiation, sea surface temperature, and ocean currents were recorded.
 Our analysis suggests that the capping inversion over the marine atmospheric boundary layer plays a crucial role in the warming of the northern Indian Ocean during the pre-monsoon season. <br>
 
 <p align="center"><img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
 
+<h2> Previous </h2> 
 <h2> Modelling Rainfall over the Western Ghats </h2>
   <p>The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
   
