@@ -45,22 +45,12 @@ In midlatitudes, where the Coriolis parameter (\f\)
 <h2> Modelling Rainfall over the Western Ghats </h2>
   <p>The Western Ghats is one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, e.g., the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
   
-<p align="center">
-<i> Comparison of orographic blocking in radiosonde observations and 12-km, 4-km, and 1.33-km model simulations </i> <br>
-<img src="/assets/wrf_fr.png" alt="" width="850" height="700">
-</p>
-
 Ref: <br>
 Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns. H., L. (under review). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations, <i> Q. J. Roy. Meteor. Soc. </i>. <br>
 Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based Rainfall Regimes over the Western Ghats Mountains of India. Q. J. Roy. Meteor. Soc.   
 
 <h2> Influence of Underlying Orography on Cyclonic Systems </h2>
 The east coast of India is prone to extreme floods during the winter monsoon, e.g., <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods</a>. The influence of the Western Ghats on the west coast rainfall has been known for a very long time. However, the role of the Eastern Ghats on East Coast rainfall was recently discovered in a study by <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml"></a> Phadtare (2018). Even though the Eastern Ghats lie about 200 km inland from the coast, the orographic effect is conveyed through the cold pool, a 'thermodynamic mountain'. In a weak background flow, the cyclonic storms in the tropics move westwards due to the planetary β effect. Therefore, the cyclonic storms that form over the eastern Indian Ocean - Maritime continent region tend to arrive at the east coasts of India and Sri Lanka. Some of these storms stall over the coast and cause catastrophic flooding for several days. The goal of this research is to identify the reasons behind the stagnation of these cyclonic storms so that we can better forecast severe flooding events and prevent the loss of life. Initial investigation hints that the weaker storms get blocked by the Eastern Ghats orography range (Phadtare, 2018). Currently, I am analyzing the vorticity budgets of the landfalling cyclonic storms to better understand the vertical propagation of the orographic effect. <br>
-
-<p>
-<p align="center">
-Piling up of cold pool (a 'thermodynamic mountain') against the Eastern Ghats orography stagnated the rainstorm over Chennai <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> (Ref). </a> <br></i>
-<img src="/assets/Cold_pool.png" alt="" width="400" height="300">
 
 </p>
 
