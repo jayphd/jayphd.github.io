@@ -60,11 +60,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
         font-weight: bold;
         color: white;
         background: transparent;
-        text-shadow: 
-            2px 2px 4px rgba(0, 0, 0, 1),
-            -2px -2px 4px rgba(0, 0, 0, 1),
-            2px -2px 4px rgba(0, 0, 0, 1),
-            -2px 2px 4px rgba(0, 0, 0, 1);
         pointer-events: none;
         text-align: center;
     }
@@ -83,7 +78,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
             <source src="assets/NandiHill.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
-        <div class="caption-top">Nandi Hill - Atmospheric Research</div>
+        <div class="caption-top">Fog rolling over Nandi Hills, India</div>
     </div>
 </div>
 
