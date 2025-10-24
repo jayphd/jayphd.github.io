@@ -19,7 +19,7 @@ Print media articles on my research: <br>
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">What caused the Dec. 1, 2015 Chennai downpour? </a>, The Hindu <br>
 <a href="https://researchmatters.in/news/look-back-december-2015-floods-chennai-what-role-did-eastern-ghats-play">A look back into the December 2015 floods of Chennai</a>, Research Matters
 
-<h2> Build up of sea surface temperature </h2> 
+<h2> Build up of sea surface temperature in the Indian Ocean</h2> 
 At the University of Notre Dame, my research is funded through the US Office of Naval Research (ONR). The overarching goal of this research is to understand the warming of the Indian Ocean during the premonsoon season. During this time of the year, the Indian Ocean contains the warmest water body on our planet and profoundly affects the climate by energising monsoon winds and tropical cyclones in some years. The role of atmospheric and ocean processes in warming up the Indian Ocean rapidly is not well understood. To this end, in situ field observations of the atmosphere and ocean were collected during May-June 2024 using shipboard instruments, buoys, and weather balloons (radiosondes) over the Indian Ocean and the Bay of Bengal. Our analysis suggests that the capping inversion over the marine atmospheric boundary layer plays a crucial role in the warming of the northern Indian Ocean during the pre-monsoon season. <br>
 
 <p align="center"><img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
