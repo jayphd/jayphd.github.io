@@ -39,7 +39,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <style>
     .video-container {
-        position: center;
+        position: absolute;
         display: inline-block;
         max-width: 800px;
     }
