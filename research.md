@@ -16,9 +16,23 @@ img {
 
 <head>
     <meta charset="UTF-8">
-    <title>Math Symbols</title>
-    <!-- Add MathJax -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <title>Research Page</title>
+    
+    <!-- Configure MathJax BEFORE loading it -->
+    <script>
+    MathJax = {
+        chtml: {
+            scale: 1.2,  // Increase to 1.2 (120% of default)
+            minScale: 0.5,
+            mtextInheritFont: true
+        },
+        svg: {
+            scale: 1.2  // For SVG output
+        }
+    };
+    </script>
+    
+    <!-- Load MathJax -->
     <script id="MathJax-script" async 
             src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
@@ -39,7 +53,7 @@ Our analysis suggests that the topography and the capping inversion over the mar
 <p align="center"><img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
-In midlatitudes, where the Coriolis parameter \(f\) 
+In midlatitudes, where the Coriolis parameter (\(f\))
 
 <h2> Previous </h2> 
 <h2> Modelling Rainfall over the Western Ghats </h2>
