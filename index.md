@@ -31,8 +31,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <p>
 <video width="320" height="240" autoplay>
   <source src="assets/NandiHill.mp4" type="video/mp4">
-  <source src="NandiHill.ogg" type="video/ogg">
-Your browser does not support the video tag.
+  Your browser does not support the video tag.
 </video>
   
 <h2> Research Interest: </h2>
