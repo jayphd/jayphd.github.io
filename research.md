@@ -53,7 +53,7 @@ Our analysis suggests that the topography and the capping inversion over the mar
 <p align="center"><img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
-In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating and the land-sea breezes can have a phase lag depending on the latitude. Furthermore, the changes in boundary layer stratification (\( N \)) can alter the turbulent friction, which can also cause inertial oscillations. With simple models, I am trying to understand what combination of diurnal forcing and turbulent friction leads to the observed land-sea breeze circulations at a given latitude.  
+In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating and the land-sea breezes can have a phase lag depending on the latitude. Furthermore, the changes in boundary layer stratification (\( N \)) can alter the turbulent friction, which can also cause inertial oscillations. With simple models, I am trying to understand what combination of diurnal forcing and turbulent friction leads to the observed land-sea breeze circulations in the tropics.  
 
 <h2> Previous </h2> 
 <h2> Modelling Rainfall over the Western Ghats </h2>
