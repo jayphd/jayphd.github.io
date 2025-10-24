@@ -37,9 +37,11 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Atmospheric boundary layer </li>
 <li> Numerical Weather Prediction </li>
 </ul> </p> <br>
-<p> Fog rolling over Nandi Hills (India)
+<p> Fog rolling over the Nandi Hills (India)
 <video width="800" height="300" autoplay muted loop controls>
         <source src="assets/NandiHill.mp4" type="video/mp4">
+        <track src="NandiHill.vtt" kind="captions" srclang="en" label="English" default>
+
         Your browser does not support the video tag.
 </video> </p>
 
@@ -51,7 +53,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 
-<b> Spreading education:</b> Note book distribution as a part of NoteBook Drive initiative of Indian Institute of Science <br>
+<b> Spreading education:</b> Notebook distribution as a part of the NoteBook Drive initiative of the Indian Institute of Science <br>
 <p align="center">
 <img src="assets/NBD.jpg" alt ="" width="700" height="450"><br> 
 
