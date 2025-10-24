@@ -37,10 +37,11 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Numerical Weather Prediction </li>
 </ul> <br>
 
-<style>
+
+   <style>
     .video-container {
-        position: absolute;
-        display: inline-block;
+        position: relative;
+        display: block;
         max-width: 800px;
         margin: 0 auto;  /* Centers the container */
     }
@@ -55,23 +56,35 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
         top: 20px;
         left: 50%;
         transform: translateX(-50%);
-        background: transparent;
-        color: white;
-        padding: 10px 20px;
         font-size: 12px;
-        border-radius: 5px;
+        font-weight: bold;
+        color: white;
+        background: transparent;
+        text-shadow: 
+            2px 2px 4px rgba(0, 0, 0, 1),
+            -2px -2px 4px rgba(0, 0, 0, 1),
+            2px -2px 4px rgba(0, 0, 0, 1),
+            -2px 2px 4px rgba(0, 0, 0, 1);
         pointer-events: none;
         text-align: center;
-        max-width: 90%;
     }
 </style>
 
-<div class="video-container">
-    <video width="800" height="300" autoplay muted loop controls>
-        <source src="assets/NandiHill.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <div class="caption-top">Early morning fog over Nandi hills, India</div>
+<div>
+    <h2>Research Interest:</h2>
+    <ul>
+        <li>Mesoscale dynamics</li>
+        <li>Atmospheric boundary layer</li>
+        <li>Numerical Weather Prediction</li>
+    </ul>
+    
+    <div class="video-container">
+        <video width="800" height="300" autoplay muted loop controls>
+            <source src="assets/NandiHill.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="caption-top">Nandi Hill - Atmospheric Research</div>
+    </div>
 </div>
 
 <h2>Education:</h2> 
