@@ -37,7 +37,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Atmospheric boundary layer </li>
 <li> Numerical Weather Prediction </li>
 </ul> </p> <br>
-<video width="800" height="400" contorls>
+<video width="800" height="400" autoplay>
         <source src="assets/NandiHill.mp4" type="video/mp4">
         Your browser does not support the video tag.
 </video>
