@@ -7,7 +7,6 @@ title: "Research"
 <style>
 div {text-align: center;}
 </style>
-</head>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
