@@ -36,11 +36,42 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 <li> Atmospheric boundary layer </li>
 <li> Numerical Weather Prediction </li>
 </ul> <br>
-<video width="800" height="300" autoplay muted loop controls>
+
+<style>
+    .video-container {
+        position: relative;
+        display: inline-block;
+        max-width: 800px;
+    }
+    
+    video {
+        display: block;
+        width: 100%;
+    }
+    
+    .caption-top {
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 10px 20px;
+        font-size: 18px;
+        border-radius: 5px;
+        pointer-events: none;
+        text-align: center;
+        max-width: 90%;
+    }
+</style>
+
+<div class="video-container">
+    <video width="800" height="300" autoplay muted loop controls>
         <source src="assets/NandiHill.mp4" type="video/mp4">
-        <track src="assets/NandiHill.vtt" kind="captions" srclang="en" label="English" default>
         Your browser does not support the video tag.
-</video> </p>
+    </video>
+    <div class="caption-top">Early morning fog over Nandi hills, India</div>
+</div>
 
 <h2>Education:</h2> 
 <ul>
