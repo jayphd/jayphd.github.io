@@ -54,7 +54,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
         top: 20px;
         left: 50%;
         transform: translateX(-50%);
-        background: rgba(0, 0, 0, 0.8);
+        background: transparent;
         color: white;
         padding: 10px 20px;
         font-size: 12px;
