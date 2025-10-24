@@ -42,6 +42,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
         position: absolute;
         display: inline-block;
         max-width: 800px;
+        margin: 0 auto;  /* Centers the container */
     }
     
     video {
