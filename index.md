@@ -57,7 +57,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
         background: rgba(0, 0, 0, 0.8);
         color: white;
         padding: 10px 20px;
-        font-size: 18px;
+        font-size: 12px;
         border-radius: 5px;
         pointer-events: none;
         text-align: center;
