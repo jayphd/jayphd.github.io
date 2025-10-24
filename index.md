@@ -57,7 +57,6 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
         left: 50%;
         transform: translateX(-50%);
         font-size: 12px;
-        font-weight: bold;
         color: white;
         background: transparent;
         pointer-events: none;
