@@ -13,6 +13,18 @@ img {
 }
 </style>
 </head>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Math Symbols</title>
+    <!-- Add MathJax -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async 
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+</head>
+
+
 <body>
  <p>My research is often motivated by societal needs to cope with climate vagaries. I am also curious to understand the fundamental working principles of our weather and climate. Therefore, my work has indeed been interdisciplinary and melded the 'Engineering' and 'Science' perspectives.</p>
 Print media articles on my research: <br> 
@@ -25,6 +37,9 @@ My research at the University of Notre Dame is funded by the US Office of Naval 
 Our analysis suggests that the topography and the capping inversion over the marine atmospheric boundary layer play a crucial role in the warming of the northern Indian Ocean during the pre-monsoon season. <br>
 
 <p align="center"><img src="/assets/sst_may2024.png" alt ="" width="600" height="300"> </p>
+
+<h2> Dynamics of land-sea breezes in the tropics </h2>
+In midlatitudes, where the Coriolis parameter (\f\) 
 
 <h2> Previous </h2> 
 <h2> Modelling Rainfall over the Western Ghats </h2>
