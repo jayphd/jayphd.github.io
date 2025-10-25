@@ -49,14 +49,14 @@ img {
 <h2> Current </h2>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
-In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating and the land-sea breezes can have a phase lag depending on the latitude. Furthermore, the changes in boundary layer stratification (\( N \)) can alter the turbulent friction, which can also cause inertial oscillations. With simple models, I am trying to understand what combination of diurnal forcing and turbulent friction leads to the observed land-sea breeze circulations in the tropics. A more ambitious goal is to add the effect of orography to this model. 
+In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating and the land-sea breezes can have a phase lag depending on the latitude. Furthermore, the changes in boundary layer stratification (\( N \)) can alter the turbulent friction, which can also cause inertial oscillations. With simple models, I am analyzing what combination of diurnal forcing and turbulent friction leads to the observed land-sea breeze circulations in the tropics. A more ambitious goal is to add the effect of orography to this model. 
 
 <img src="/assets/winds_x_y_web.png" alt ="" width="500" height="200" align="center">
 <div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation. </span> </div>
   
 <h2> Influence of topography on the warming of the northern Indian Ocean</h2> 
 This research is funded by the US Office of Naval Research (ONR). The overarching goal of this research is to understand the warming of the Indian Ocean during the premonsoon season. During this time of the year, the Indian Ocean contains the warmest water body on our planet and profoundly affects the climate by energising monsoon winds and tropical cyclones in some years. The role of atmospheric and ocean processes in warming up the Indian Ocean rapidly is not well understood. To this end, field observations of the atmosphere and ocean were collected during May-June 2024 using shipboard instruments, buoys, and weather balloons (radiosondes) over the Indian Ocean and the Bay of Bengal. Quantities like winds, cloud cover, radiation, sea surface temperature, and ocean currents were recorded.
-Our analysis suggests that the topography and the capping inversion over the marine atmospheric boundary layer play a crucial role in the warming of the northern Indian Ocean during the pre-monsoon season. <br>
+Our analysis suggests that the land-sea breezes and the capping inversion over the marine atmospheric boundary layer play a crucial role in the warming of the northern Indian Ocean during the pre-monsoon season. <br>
 
 
 
