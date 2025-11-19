@@ -32,7 +32,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p> <h2> Research Interest: </h2>
 <ul>
-<li> Mesoscale dynamics </li>
+<li> Synoptic and Mesoscale Meteorology </li>
 <li> Atmospheric boundary layer </li>
 <li> Numerical Weather Prediction </li>
 </ul> <br>
@@ -72,7 +72,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 </ul>
 
 
-<b> Spreading education:</b> Notebook distribution as a part of the NoteBook Drive initiative of the Indian Institute of Science <br>
+<b> Spreading education:</b> Notebook distribution as a part of the Notebook Drive initiative of the Indian Institute of Science <br>
 <p align="center">
 <img src="assets/NBD.jpg" alt ="" width="700" height="450"><br> 
 
