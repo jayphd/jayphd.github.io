@@ -54,7 +54,7 @@ In midlatitudes, where the inertial frequency (\(f\)) is greater than the freque
 <img src="/assets/winds_x_y_web.png" alt ="" width="500" height="200" align="center">
 <div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation. </span> </div>
   
-<h2> Influence of topography on the warming of the northern Indian Ocean</h2> 
+<h2> Influence of atmospoheric processes on the warming of the northern Indian Ocean</h2> 
 This research is funded by the US Office of Naval Research (ONR). The overarching goal of this research is to understand the warming of the Indian Ocean during the premonsoon season. During this time of year, the Indian Ocean is the warmest ocean on our planet and profoundly affects the climate by energising monsoon winds and, in some years, tropical cyclones. The role of atmospheric and oceanic processes in the rapid warming of the Indian Ocean is not well understood. To this end, atmospheric and oceanic field observations were collected during May-June 2024 using shipboard instruments, buoys, and weather balloons (radiosondes) over the Indian Ocean and the Bay of Bengal. Quantities such as wind speed, cloud cover, radiation, sea surface temperature, and ocean currents were recorded.
 Our analysis suggests that the topography and the capping inversion over the marine atmospheric boundary layer play a crucial role in the warming of the northern Indian Ocean during the pre-monsoon season. <br>
 
