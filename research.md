@@ -50,7 +50,7 @@ img {
 <h2> Current </h2>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
-<p> In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating- and land-sea-breeze system can exhibit a phase lag depending on latitude. Furthermore, changes in boundary-layer stratification (\(N\)) can alter turbulent friction, thereby causing inertial oscillations. Using simple models, I am analyzing which combination of diurnal forcing and turbulent friction produces the observed land-sea breeze circulations in the tropics. A more ambitious goal is to add the effect of orography to this model.  </p>
+<p> In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating- and land-sea-breeze system can exhibit a phase lag depending on latitude. Furthermore, changes in the boundary-layer stratification (\(N\)) can alter turbulent friction, thereby causing inertial oscillations. Using simple models, I am analyzing what combinations of diurnal forcing and turbulent friction produce the observed land-sea breeze circulations in the tropics. A more ambitious goal is to add the effect of orography to this model.  </p>
 
 <img src="/assets/winds_x_y_web.png" alt ="" width="500" height="200" align="center">
 <div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation. </span> </div>
