@@ -8,6 +8,10 @@ title: "Research"
 div {text-align: center;}
 </style>
 
+p {
+    text-align: justify;
+}
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
