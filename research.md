@@ -5,12 +5,9 @@ title: "Research"
 <html>
 
 <style>
-div {text-align: center;}
+div {text-align: justify;}
 </style>
 
-p {
-    text-align: justify;
-}
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
