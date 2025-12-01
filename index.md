@@ -32,8 +32,8 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p> <h2> Research Interest: </h2>
 <ul>
-<li> Tropical Dynamics
-<li> Mesoscale Dynamics </li>
+<li> Tropical dynamics
+<li> Mesoscale dynamics </li>
 <li> Atmospheric boundary layer </li>
 </ul> <br>
 
