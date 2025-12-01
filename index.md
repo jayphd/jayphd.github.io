@@ -32,7 +32,8 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p> <h2> Research Interest: </h2>
 <ul>
-<li> Synoptic and Mesoscale Meteorology </li>
+<li> Tropical Dynamics
+<li> Mesoscale Dynamics </li>
 <li> Atmospheric boundary layer </li>
 </ul> <br>
 
