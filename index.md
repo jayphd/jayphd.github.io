@@ -32,7 +32,7 @@ Hi, thank you for visiting my website. I am a postdoctoral research associate in
 
 <p> <h2> Research Interest: </h2>
 <ul>
-<li> Tropical dynamics
+<li> Tropical dynamics  </li>
 <li> Mesoscale dynamics </li>
 <li> Atmospheric boundary layer </li>
 </ul> <br>
