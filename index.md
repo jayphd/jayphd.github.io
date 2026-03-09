@@ -18,6 +18,8 @@ img{
 
 }
 </style>
+
+a { color: black; }
 </head>
 <body>
 
