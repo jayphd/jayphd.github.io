@@ -29,15 +29,14 @@ a {
 <p>
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
 
-Hi, thank you for visiting my website. I am a postdoctoral research associate in the 
-<a href="https://efmlab.nd.edu/" style="color: black;">Environmental Fluid Mechanics Lab</a> 
-at the <a href="https://www.nd.edu/" style="color: black;">University of Notre Dame</a>. 
+Hi, thank you for visiting my website. I am a postdoctoral research associate in the  <a href="https://efmlab.nd.edu/">Environmental Fluid Mechanics Lab</a> 
+at the <a href="https://www.nd.edu/">University of Notre Dame</a>. 
 I am studying atmospheric boundary layer processes using observations from research cruises 
 in the Indian Ocean. Previously, I was at the 
-<a href="https://ncas.ac.uk/" style="color: black;">National Centre for Atmospheric Science (NCAS)</a>, 
+<a href="https://ncas.ac.uk/">National Centre for Atmospheric Science (NCAS)</a>, 
 University of Leeds, where I studied the effects of mountain ranges on winds and rainfall 
 during the Indian summer monsoon in climate models as a part of the 
-<a href="http://www.met.reading.ac.uk/~sws05agt/improve/" style="color: black;">IMPROVE project.</a></p>
+<a href="http://www.met.reading.ac.uk/~sws05agt/improve/">IMPROVE project.</a></p>
 
 <p>I did my Ph.D. at the 
 <a href="https://caos.iisc.ac.in/" style="color: black;">Centre for Atmospheric and Oceanic Sciences</a>, 
