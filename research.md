@@ -49,7 +49,7 @@ img {
 
 My research seeks to understand the mechanisms behind the extreme climatic events, with a particular focus on the topographic effects on the atmosphere. The motivation for my work stems from scientific fascination with understanding the workings of weather and climate, and from an urge to care for vulnerable communities and ecosystems.
 
-<h2> <u> Current </u> </h2>
+<h2> <u> Current topics </u> </h2>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
 <p> In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating- and land-sea-breeze system can exhibit a phase lag depending on latitude. Furthermore, changes in the boundary-layer stratification (\(N\)) can alter turbulent friction, thereby causing inertial oscillations. Using simple models, I am analyzing what combinations of diurnal forcing and turbulent friction produce the observed land-sea breeze circulations in the tropics. A more ambitious goal is to add the effect of orography to this model.  </p>
@@ -67,7 +67,7 @@ Ref:<br>
 <b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
 
 
-<h2> Previous </h2> 
+<h2> Previous topics </h2> 
 <h2> Modelling Rainfall over the Western Ghats </h2>
 <p>The Western Ghats are one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, as evidenced by the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
   
