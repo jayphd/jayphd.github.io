@@ -18,6 +18,14 @@ img{
 
 }
 </style>
+
+<style>
+  a:link, a:visited, a:hover, a:active {
+    color: black; /* Sets the link color to black */
+    text-decoration: underline; /* Ensures the link is underlined */
+  }
+</style>
+
 </head>
 <body>
 
