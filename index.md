@@ -7,7 +7,7 @@ title: ""
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-img{
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -15,17 +15,17 @@ img{
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 5px;
-
 }
-</style>
 
 a {
   color: black;
   text-decoration: underline;
 }
+</style>
 </head>
 <body>
 
+  
 <p>
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
 
