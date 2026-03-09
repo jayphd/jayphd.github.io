@@ -19,7 +19,10 @@ img{
 }
 </style>
 
-a { color: black; }
+a {
+  color: black;
+  text-decoration: underline;
+}
 </head>
 <body>
 
