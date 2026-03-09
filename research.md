@@ -47,7 +47,7 @@ img {
 
 <body>
 
-<p> My research seeks to understand the mechanisms behind the extreme climatic events, with a particular focus on the topographic effects on the atmosphere. The motivation for my work stems from scientific fascination with understanding the workings of weather and climate, and from an urge to care for vulnerable communities and ecosystems.</p>
+<p> My research seeks to understand the mechanisms behind extreme climatic events, with a particular focus on topographic effects on the atmosphere. The motivation for my work stems from scientific fascination with understanding the workings of weather and climate, and from an urge to care for vulnerable communities and ecosystems.</p>
 
 <h2> <u> Current topics </u> </h2>
 
