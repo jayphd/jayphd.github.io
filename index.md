@@ -24,10 +24,27 @@ img{
 <p>
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
 
-Hi, thank you for visiting my website. I am a postdoctoral research associate in the <a href="https://efmlab.nd.edu/" style=" color: black;>Environmental Fluid Mechanics Lab </a> at the <a href="https://www.nd.edu/" style="color: black;> University of Notre Dame</a>.  I am studying atmospheric boundary layer processes using observations from research cruises in the Indian Ocean. Previously, I was at the <a href="https://ncas.ac.uk/"style="color: black; > National Centre for Atmospheric Science (NCAS)</a>, University of Leeds, where I studied the effects of mountain ranges on winds and rainfall during the Indian summer monsoon in climate models as a part of the <a  href="http://www.met.reading.ac.uk/~sws05agt/improve/"style=" color: black;> IMPROVE project. </a> </p>
+Hi, thank you for visiting my website. I am a postdoctoral research associate in the 
+<a href="https://efmlab.nd.edu/" style="color: black;">Environmental Fluid Mechanics Lab</a> 
+at the <a href="https://www.nd.edu/" style="color: black;">University of Notre Dame</a>. 
+I am studying atmospheric boundary layer processes using observations from research cruises 
+in the Indian Ocean. Previously, I was at the 
+<a href="https://ncas.ac.uk/" style="color: black;">National Centre for Atmospheric Science (NCAS)</a>, 
+University of Leeds, where I studied the effects of mountain ranges on winds and rainfall 
+during the Indian summer monsoon in climate models as a part of the 
+<a href="http://www.met.reading.ac.uk/~sws05agt/improve/" style="color: black;">IMPROVE project.</a></p>
 
-
-<p> I did my Ph.D. at the <a href="https://caos.iisc.ac.in/"> Centre for Atmospheric and Oceanic Sciences</a>, Indian Institute of Science, Bangalore. For my Ph.D. thesis, I studied the dynamics of stationary cyclonic storms that were responsible for the <a href="https://en.wikipedia.org/wiki/2015_South_India_floods"> 2015 South India floods</a>. This was the first <a href="https://doi.org/10.1175/MWR-D-16-0473.1"> study</a> to link extreme rainfall over the east coast of India to the Eastern Ghats mountains.  I also wrote an <a href="https://jayphd.github.io/tracking/">automated cloud-tracking algorithm </a> to study the organization of deep convection in the INSAT satellite imagery. </p>
+<p>I did my Ph.D. at the 
+<a href="https://caos.iisc.ac.in/" style="color: black;">Centre for Atmospheric and Oceanic Sciences</a>, 
+Indian Institute of Science, Bangalore. For my Ph.D. thesis, I studied the dynamics of 
+stationary cyclonic storms that were responsible for the 
+<a href="https://en.wikipedia.org/wiki/2015_South_India_floods" style="color: black;">2015 South India floods</a>. 
+This was the first 
+<a href="https://doi.org/10.1175/MWR-D-16-0473.1" style="color: black;">study</a> 
+to link extreme rainfall over the east coast of India to the Eastern Ghats mountains. 
+I also wrote an 
+<a href="https://jayphd.github.io/tracking/" style="color: black;">automated cloud-tracking algorithm</a> 
+to study the organization of deep convection in the INSAT satellite imagery.</p>
 
 
 <p> <h2> Research Interest: </h2>
