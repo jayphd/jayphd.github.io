@@ -49,7 +49,7 @@ img {
 
 My research seeks to understand the mechanisms behind the extreme climatic events, with a particular focus on the topographic effects on the atmosphere. The motivation for my work stems from scientific fascination with understanding the workings of weather and climate, and from an urge to care for vulnerable communities and ecosystems.
 
-<h2> <u> Current </u> <u>read carefully</u> </h2>
+<h2> <u> Current </u> </h2>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
 <p> In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating- and land-sea-breeze system can exhibit a phase lag depending on latitude. Furthermore, changes in the boundary-layer stratification (\(N\)) can alter turbulent friction, thereby causing inertial oscillations. Using simple models, I am analyzing what combinations of diurnal forcing and turbulent friction produce the observed land-sea breeze circulations in the tropics. A more ambitious goal is to add the effect of orography to this model.  </p>
