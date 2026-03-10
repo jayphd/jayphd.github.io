@@ -30,7 +30,7 @@ a {
 <img src="/assets/Jayesh.png" alt ="" width="250" height="300" align='right'>
 
 Thank you for visiting my website. I am a postdoctoral research associate in the  <a href="https://efmlab.nd.edu/">Environmental Fluid Mechanics Lab</a> 
-at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am studying atmospheric boundary layer processes using observations from research cruises 
+at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I am studying atmospheric boundary layer processes and air-sea interactions using observations from research cruises 
 in the Indian Ocean. Previously, I was at the <a href="https://ncas.ac.uk/">National Centre for Atmospheric Science (NCAS)</a>, University of Leeds, where I studied the effects of mountain ranges on winds and rainfall 
 during the Indian summer monsoon in climate models as a part of the <a href="http://www.met.reading.ac.uk/~sws05agt/improve/">IMPROVE project.</a></p>
 
