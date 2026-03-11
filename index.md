@@ -44,7 +44,8 @@ This was the first
 to link extreme rainfall over the east coast of India to the Eastern Ghats mountains. 
 I also wrote an 
 <a href="https://jayphd.github.io/tracking/">automated cloud-tracking algorithm</a> 
-to study the organization of deep convection in the INSAT satellite imagery.</p>
+to study the organization of deep convection in the INSAT satellite imagery. This algorithm provides a tool for studying how clouds
+organize over topographic features, such as mountains and coasts, and within large-scale weather systems, such as cyclones</p>
 
 
 <p> <h2> Research Interest: </h2>
