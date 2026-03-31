@@ -68,13 +68,7 @@ Ref:<br>
 <b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
 
 
-<h2> Previous topics </h2> 
-<h2> Modelling Rainfall over the Western Ghats </h2>
-<p>The Western Ghats are one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, as evidenced by the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
-  
-Ref: <br>
-Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns. H., L. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations, <i> Q. J. Roy. Meteor. Soc. </i>. <br>
-Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based Rainfall Regimes over the Western Ghats Mountains of India. Q. J. Roy. Meteor. Soc.   
+<h2> Previous topics </h2>
 
 <h2> Influence of Underlying Orography on Cyclonic Systems </h2>
  <p>The east coast of India is prone to extreme floods during the winter monsoon, e.g., <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods</a>. The influence of the Western Ghats on the west coast rainfall has been known for a very long time. However, the role of the Eastern Ghats on East Coast rainfall was recently discovered in a study by <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml"></a> Phadtare (2018). Even though the Eastern Ghats lie about 200 km inland from the coast, the orographic effect is conveyed through the cold pool, a 'thermodynamic mountain'. In a weak background flow, tropical cyclones move westward due to the planetary β effect. Therefore, cyclonic storms that form over the eastern Indian Ocean-Maritime Continent region tend to reach the east coasts of India and Sri Lanka. Some of these storms stall over the coast, causing catastrophic flooding for several days. The goal of this research was to identify the causes of the stagnation of these cyclonic storms, enabling better forecasting of severe flooding events and preventing loss of life. Initial investigations suggest that the weaker storms are blocked by the Eastern Ghats orographic range (Phadtare, 2018, 2023). </p> <br>
@@ -82,6 +76,15 @@ Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022
 Ref:<br>
 Phadtare, J. (2023). Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
 Phadtare, J. (2018). Role of Eastern Ghats Orography and Cold Pool in an Extreme Rainfall Event over Chennai on 1 December 2015.<em> Mon. Wea. Rev. </em>, 146 (4). pp. 943-965.
+
+
+<h2> Modelling Rainfall over the Western Ghats </h2>
+<p>The Western Ghats are one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, as evidenced by the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
+  
+Ref: <br>
+Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns. H., L. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations, <i> Q. J. Roy. Meteor. Soc. </i>. <br>
+Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based Rainfall Regimes over the Western Ghats Mountains of India. Q. J. Roy. Meteor. Soc.   
+
 
 
 <h2> Organization and Life Cycle of Deep Cloud Systems in the Indian Summer Monsoon </h2>
