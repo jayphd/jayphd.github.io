@@ -61,7 +61,7 @@ img {
 <div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation. </span> </div>
 
 
-<h2> Topographic steering of Convectively Coupled Kelvin Waves (CCKWs) </h2>
+<h2> Topographic steering of Convectively Coupled Kelvin Waves (CCKWs)</h2>
 <p> The Convectively Coupled Kelvin Waves (CCKWs) are eastward propagating tropical atmospheric waves with a period between 3 and 17 days, a wavelength of about 10,000 km, and a speed of about 15 m. These waves are responsible for the large-scale organization of tropical clouds/rainfall and play a significant role in tropical climate dynamics. Previously, CCKWs were studied separately over Africa and the Indian Ocean. We studied the evolution of CCKWs propagating across the two regions. We show that the East African Highlands obstruct the passage of CCKWs and divert a part of the wave northwards, thus weakening the wave arriving over the Indian Ocean. This finding has important implications for understanding the fundamental dynamics of the tropical atmosphere.</p>
 
 Ref:<br>
@@ -70,7 +70,7 @@ Ref:<br>
 
 <h2> Previous topics </h2>
 
-<h2> Influence of Underlying Orography on Cyclonic Systems </h2>
+<h2> Influence of underlying mountains on cyclonic systems </h2>
 
  <p> <img src="/assets/IAF.jpg" alt ="" width="500" height="300" align="center">
 <div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Indian Air Force rescue operation during the 2015 Chennai floods. </span> </div> </p>
