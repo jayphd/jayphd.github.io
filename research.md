@@ -59,7 +59,7 @@ img {
 
 <img src="/assets/winds_x_y_web.png" alt="" width="500" height="200">
 <div style="text-align: center;">
-  <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;">
+  <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: normal;">
     Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation.
   </span>
 </div>
@@ -78,7 +78,7 @@ Ref:<br>
 
 <img src="/assets/IAF.jpg" alt="" width="500" height="300">
 <div style="text-align: center;">
-  <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;">
+  <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: normal;">
    Indian Air Force rescue operation during the 2015 Chennai floods.
   </span>
 </div>
