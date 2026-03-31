@@ -68,7 +68,7 @@ Ref:<br>
 <b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
 
 
-<h2> Previous topics </h2>
+<h2> <u> </u>Previous topics <\u> </h2>
 
 <h2> Influence of underlying mountains on cyclonic systems </h2>
 
