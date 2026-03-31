@@ -68,9 +68,6 @@ img {
 <h2> Topographic steering of Convectively Coupled Kelvin Waves (CCKWs)</h2>
 <p> The Convectively Coupled Kelvin Waves (CCKWs) are eastward propagating tropical atmospheric waves with a period between 3 and 17 days, a wavelength of about 10,000 km, and a speed of about 15 m. These waves are responsible for the large-scale organization of tropical clouds/rainfall and play a significant role in tropical climate dynamics. Previously, CCKWs were studied separately over Africa and the Indian Ocean. We studied the evolution of CCKWs propagating across the two regions. We show that the East African Highlands obstruct the passage of CCKWs and divert a part of the wave northwards, thus weakening the wave arriving over the Indian Ocean. This finding has important implications for understanding the fundamental dynamics of the tropical atmosphere.</p>
 
-Ref:<br>
-<b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin Waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em> <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a> <br>
-
 
 <h2> <u> Previous topics </u> </h2>
 
@@ -85,24 +82,12 @@ Ref:<br>
 
  <p>The east coast of India is prone to extreme floods during the winter monsoon, e.g., <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods</a>. The influence of the Western Ghats on the west coast rainfall has been known for a very long time. However, the role of the Eastern Ghats on East Coast rainfall was recently discovered in a study by <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml"></a> Phadtare (2018). Even though the Eastern Ghats lie about 200 km inland from the coast, the orographic effect is conveyed through the cold pool, a 'thermodynamic mountain'. In a weak background flow, tropical cyclones move westward due to the planetary β effect. Therefore, cyclonic storms that form over the eastern Indian Ocean-Maritime Continent region tend to reach the east coasts of India and Sri Lanka. Some of these storms stall over the coast, causing catastrophic flooding for several days. The goal of this research was to identify the causes of the stagnation of these cyclonic storms, enabling better forecasting of severe flooding events and preventing loss of life. Initial investigations suggest that the weaker storms are blocked by the Eastern Ghats orographic range (Phadtare, 2018, 2023). </p> <br>
 
-Ref:<br>
-Phadtare, J. (2023). Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>. <br>
-Phadtare, J. (2018). Role of Eastern Ghats Orography and Cold Pool in an Extreme Rainfall Event over Chennai on 1 December 2015.<em> Mon. Wea. Rev. </em>, 146 (4). pp. 943-965.
-
 
 <h2> Modelling Rainfall over the Western Ghats </h2>
 <p>The Western Ghats are one of the rainiest places on our planet. The low-level monsoon jet from the southwest brings loads of moisture over the west coast of India. The Western Ghats provide a mechanical uplifting mechanism for the advected warm and moist air parcels. Thus, the west coast of India is prone to life-threatening flooding during the summer monsoon months, as evidenced by the Mumbai flood in July 2005 and the Kerala flood in August 2018.  My research at the National Centre for Atmospheric Science, University of Leeds, investigated the orographic effects of the Western Ghats on the West Coast rainfall and its representation in numerical models. It was concluded that a model resolution of O(1km) is needed to simulate the mean rainfall accumulation over the Western Ghats. However, even at this high resolution, models overestimate rainfall (by 50-100%) over the orography, especially during the phases of weak winds/offshore rainfall. This error stems from an anomalously weak orographic blocking effect in models. </p>
   
-Ref: <br>
-Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G., Schiemann, R.K., Burns. H., L. (2023). Unravelling the Mechanism of Summer Monsoon Rainfall Modes over the West Coast of India using Model Simulations, <i> Q. J. Roy. Meteor. Soc. </i>. <br>
-Phadtare, J., Fletcher, J.K., Ross, A.N., Turner, A.G. and Schiemann, R.K., 2022. Froude number-based Rainfall Regimes over the Western Ghats Mountains of India. Q. J. Roy. Meteor. Soc.   
-
 
 
 <h2> Organization and Life Cycle of Deep Cloud Systems in the Indian Summer Monsoon </h2>
 <p> Representation of clouds in the general circulation models is one of the biggest challenges for the atmospheric science community.  Simultaneously resolving  the full spectrum of the involved scales is computationally infeasible. Recent simulations from cloud-resolving models (CRMs) have shown promising results. However, the problem is not just limited to computational power; uncertainties plague our understanding of the physical processes in clouds. Therefore, there is a need to study real-world cloud processes and to set benchmarks for CRMs.  High-resolution data from geostationary satellites is helpful for this purpose.  During my PhD, I studied the life cycle of deep clouds of the Indian summer monsoon using INSAT-series satellite data. Special focus was on studying the cloud organization with and without the synoptic-scale forcing. An automated cloud tracking code was written for this purpose. Some of the questions addressed in this study are the following: Is there a systematic organization of MCSs within the monsoon depressions? In what aspects do the MCSs differ when the synoptic-scale forcing is strong and weak? Does the size spectrum of MCSs differ in different climatic conditions, e.g., ENSO?</p>
 
-
-Ref:
-Phadtare, J., and Bhat, G.S., 2019. Characteristics of deep cloud systems under weak and strong synoptic forcing during the Indian summer monsoon season, Mon. Wea. Rev., 147(10), pp.3741-3758.
-  
