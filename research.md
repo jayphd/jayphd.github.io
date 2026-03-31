@@ -57,8 +57,12 @@ img {
 <h2> Dynamics of land-sea breezes in the tropics </h2>
 <p> In midlatitudes, where the inertial frequency (\(f\)) is greater than the frequency of the diurnal cycle (\(\omega\)), land-sea breezes are in phase with the heating/cooling of the land surface. In the tropics, \(f < \omega \). Therefore, the heating- and land-sea-breeze system can exhibit a phase lag depending on latitude. Furthermore, changes in the boundary-layer stratification (\(N\)) can alter turbulent friction, thereby causing inertial oscillations. Using simple models, I am analyzing what combinations of diurnal forcing and turbulent friction produce the observed land-sea breeze circulations in the tropics. A more ambitious goal is to incorporate the effects of orography into this model, then to understand how the dynamics is affected by climate warming.  </p>
 
-<img src="/assets/winds_x_y_web.png" alt ="" width="500" height="200" align="center">
-<div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation. </span> </div>
+<img src="/assets/winds_x_y_web.png" alt="" width="500" height="200">
+<div style="text-align: center;">
+  <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;">
+    Horizontal flow at 06 and 12 LST mimicking land-sea breeze circulation.
+  </span>
+</div>
 
 
 <h2> Topographic steering of Convectively Coupled Kelvin Waves (CCKWs)</h2>
@@ -72,8 +76,12 @@ Ref:<br>
 
 <h2> Influence of underlying mountains on cyclonic systems </h2>
 
- <p> <img src="/assets/IAF.jpg" alt ="" width="500" height="300" align="center">
-<div> <span style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal;text-align: center;"> Indian Air Force rescue operation during the 2015 Chennai floods. </span> </div> </p>
+<div style="text-align: center;">
+  <img src="/assets/IAF.jpg" alt="" width="500" height="300">
+  <div style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; margin-top: 4px;">
+    Indian Air Force rescue operation during the 2015 Chennai floods.
+  </div>
+</div>
 
  <p>The east coast of India is prone to extreme floods during the winter monsoon, e.g., <a href="https://en.wikipedia.org/wiki/2015_South_India_floods">the 2015 South India floods</a>. The influence of the Western Ghats on the west coast rainfall has been known for a very long time. However, the role of the Eastern Ghats on East Coast rainfall was recently discovered in a study by <a href="https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-16-0473.1.xml"></a> Phadtare (2018). Even though the Eastern Ghats lie about 200 km inland from the coast, the orographic effect is conveyed through the cold pool, a 'thermodynamic mountain'. In a weak background flow, tropical cyclones move westward due to the planetary β effect. Therefore, cyclonic storms that form over the eastern Indian Ocean-Maritime Continent region tend to reach the east coasts of India and Sri Lanka. Some of these storms stall over the coast, causing catastrophic flooding for several days. The goal of this research was to identify the causes of the stagnation of these cyclonic storms, enabling better forecasting of severe flooding events and preventing loss of life. Initial investigations suggest that the weaker storms are blocked by the Eastern Ghats orographic range (Phadtare, 2018, 2023). </p> <br>
 
