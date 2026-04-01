@@ -6,6 +6,7 @@ title: "Research"
 
 <style>
 div {text-align: justify;}
+mathjax: true
 </style>
 
 
