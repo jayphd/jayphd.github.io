@@ -6,7 +6,7 @@ title: "Publications"
 
 <b> Phadtare, J. </b>, Thompson, E., Fernando, H.S.J. (under review),  Dynamics of capping inversion and Low-level jet over the Bay of Bengal in
 premonsoon season. <em> J. Atmos. Sci. </em> 
-<a href="https://drive.google.com/file/d/1caTHaSo0ZW9kdJb6OXR9eTHk5Au3z26b/view?usp=drive_link"> [PDF] </a>
+ [<a href="https://drive.google.com/file/d/1caTHaSo0ZW9kdJb6OXR9eTHk5Au3z26b/view?usp=drive_link"> PDF</a>]
 
 <b> Phadtare, J. </b>, Fernando, H.S.J. (2025),  On the propagation of convectively coupled Kelvin waves from Africa to the Indian Ocean. <em> Geophys. Res. Lett. </em>
 <a href="https://doi.org/10.1029/2024GL114419"> [Link] </a>
