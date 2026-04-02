@@ -45,7 +45,10 @@ forcing during Indian summer monsoon season, <em> Mon. Wea. Rev. </em>, 147(10),
 
 
 <b>Phadtare, J.</b>, 2018. Role of Eastern Ghats orography and cold pool in an extreme rainfall event over Chennai
-on 1 December 2015. <em> Mon. Wea. Rev. </em>, 146(4), pp.943-965. DOI: <a href ="https://doi.org/10.1175/MWR-D-16-0473.1"> [Link] </a>
+on 1 December 2015. <em> Mon. Wea. Rev. </em>, 146(4), pp.943-965. 
+[<a href ="https://doi.org/10.1175/MWR-D-16-0473.1"> Link] </a>
+[<a href ="https://drive.google.com/file/d/10U-cQvnDFEoHgcTXI2o22snCsCiGsYlN/view?usp=sharing"> PDF] </a>
+
 
 <ins><b>Others:</b></ins> <br>
 <b>Phadtare, J. 2018 </b>. Why floods occur over Tamil Nadu Coast?. <i> Augmenting Writing Skills for Articulating
