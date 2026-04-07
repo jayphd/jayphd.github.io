@@ -54,7 +54,7 @@ organize over topographic features, such as mountains and coasts, and within lar
 <li> Atmospheric boundary layer </li>
 <li> Extrenme weather </li>
 <li> Air-sea interaction </li>
-</ul> <br>
+</ul>
 
 <a href="https://www.thehindu.com/sci-tech/science/what-caused-the-dec-1-2015-chennai-downpour/article24122666.ece">
 News article on the 2015 Chennai extreme rainfall mechanism </a>
