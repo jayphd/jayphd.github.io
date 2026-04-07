@@ -98,6 +98,6 @@ News article on the 2015 Chennai extreme rainfall mechanism </a>
 <p align="center">
 <img src="assets/NBD.jpg" alt ="" width="700" height="450"><br> 
 
-<a href="https://drive.google.com/file/d/1WG79cNMxDSy4oyfMUX1WxGfXBd_YGfZG/view?usp=drive_link"> Curriculum vitae </a>
+<a href="https://drive.google.com/open?id=1sd8x_mrbFMGgRWrg2A2imEm8OabIWB5y&usp=drive_fs"> Curriculum vitae </a>
 
 
