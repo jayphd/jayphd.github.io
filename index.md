@@ -52,7 +52,7 @@ organize over topographic features, such as mountains and coasts, and within lar
 <ul>
 <li> Atmospheric dynamics  </li>
 <li> Atmospheric boundary layer </li>
-<li> Extrenme weather </li>
+<li> Extreme weather </li>
 <li> Air-sea interaction </li>
 </ul>
 
