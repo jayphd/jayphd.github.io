@@ -4,7 +4,7 @@ title: "Publications"
 ---
 <ins><b>Peer Reviewed:</b></ins>
 
-<b> Phadtare, J. </b>, Thompson, E., Fernando, H.S.J. (under review),  Dynamics of capping inversion and Low-level jet over the Bay of Bengal in
+<b> Phadtare, J. </b>, Thompson, E., Fernando, H.S.J. (submitted),  Dynamics of capping inversion and Low-level jet over the Bay of Bengal in
 premonsoon season. <em> J. Atmos. Sci. </em> 
  [<a href="https://drive.google.com/file/d/1caTHaSo0ZW9kdJb6OXR9eTHk5Au3z26b/view?usp=drive_link"> PDF</a>]
 
