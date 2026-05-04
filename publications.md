@@ -25,7 +25,7 @@ Mireles, E.G., <b> Phadtare, J. </b>, Valentín, J.P. et al.(2025). Extreme prec
 [<a href ="https://drive.google.com/file/d/1SS8Jo4ibALJPk-RHb1eH2R6SZw5vhtTZ/view?usp=sharing">PDF] </a>
 
 
-<b> Phadtare, J.</b> 2023. Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>, 2, no. 3: 329-343. 
+<b> Phadtare, J.</b> (2023). Influence of Underlying Topography on Post-Monsoon Cyclonic Systems over the Indian Peninsula. <em> Meteorology </em>, 2, no. 3: 329-343. 
 [<a href="https://doi.org/10.3390/meteorology2030020">Link] </a>
 [<a href="https://drive.google.com/file/d/1xIxPtwn2EIj6D2A8X_9AsYaX_aQC4o9K/view?usp=sharing">PDF] </a>.
 
