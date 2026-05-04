@@ -15,7 +15,7 @@ premonsoon season. <em> J. Atmos. Sci. </em>
 Mireles, E.G., <b> Phadtare, J. </b>, Valentín, J.P. et al.(2025). Extreme precipitation observations during the 2019 MISO-BOB field campaign. <em> Clim. Dyn. </em> 63, 202 <a href="https://doi.org/10.1007/s00382-025-07690-z"> [Link] </a> <br>
 
 
-<b> Phadtare, J. </b>, Fernando, H.J.S., Black, G. et al. Aircraft observations in a tropical supercluster over the equatorial Indian Ocean during MISO-BOB field campaign. <em> Sci Rep </em> , 14, 2182 (2024). 
+<b> Phadtare, J. </b>, Fernando, H.J.S., Black, G. et al. (2024) Aircraft observations in a tropical supercluster over the equatorial Indian Ocean during MISO-BOB field campaign. <em> Sci Rep </em> , 14, 2182. 
 [<a href ="https://doi.org/10.1038/s41598-024-51527-4"> Link] </a>
 [<a href ="https://drive.google.com/file/d/1ALIcuH6Fds0J3qJ8XnA23Z0aBaA-7mLo/view?usp=sharing"> PDF] </a>
 
