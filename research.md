@@ -52,7 +52,7 @@ img {
 
 <h2> <u> Current topics </u> </h2>
 
-<h2> Mesoscale air-Sea interactions </h2> 
+<h2> Mesoscale air-sea interactions </h2> 
 <p> The North Indian Ocean (NIO), including the Arabian Sea and Bay of Bengal, is one of the warmest regions of the global ocean during the pre-monsoon months. In May-June 2024, I participated in a research cruise to better understand air-sea interactions over the Bay of Bengal during the monsoon onset. Understanding premonsoon ocean warming and cooling at the onset of the monsoon is crucial for protecting marine ecosystems (e.g., coral reefs, fish populations, coastal communities) and for monsoon forecasting. Investigation of the observations from the Indian peninsula and the Bay shows that land-atmosphere interactions during continental heatwaves lead to a strong inversion (a rapid increase in temperature and dryness with height) over the Bay [<a href="https://drive.google.com/file/d/1caTHaSo0ZW9kdJb6OXR9eTHk5Au3z26b/view?usp=drive_link">Phadtare et al. (submitted)</a>]. This suppresses cloud cover and allows more solar radiation to reach the ocean surface, thereby warming the ocean. It leads to a compound heatwave over the region, with both land and ocean experiencing extreme heat.</p> <br>
 
 <h2> Dynamics of land-sea breezes in the tropics </h2>
